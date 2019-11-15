@@ -19,7 +19,16 @@ $ cordova platform add ios --save  //增加ios包
 $ cordova requirements  //检查环境是否满足
 ```
 
+## 修改配置
+当修改了config.xml文件后，并不能动态的生成对应APP包。      
+需要将之前的删掉重新添加，命令如下：
+```
+cordova plugin save
+cordova platform rm ios
+cordova platform add ios
+```    
 
-1. The CocoaPods repo has not been synced yet, this will take a long time (approximately 500MB as of Sept 2016). Please run `pod setup` first to sync the repo.
+### 注意：
+1. 报错：The CocoaPods repo has not been synced yet, this will take a long time (approximately 500MB as of Sept 2016). Please run `pod setup` first to sync the repo.
 mkdir -p ~/.cocoapods/repos
 git clone https://github.com/CocoaPods/Specs ~/.cocoapods/repos/master

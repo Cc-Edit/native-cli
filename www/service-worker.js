@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://s.domain.com/precache-manifest.780ae92171dd41c300340cf25468b97d.js"
+  "precache-manifest.8796215382924fe8317636c28b74bf82.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "vue-cli"});
+workbox.core.setCacheNameDetails({prefix: "juggle"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {

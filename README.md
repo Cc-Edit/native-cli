@@ -30,5 +30,13 @@ cordova platform add ios
 
 ### 注意：
 1. 报错：The CocoaPods repo has not been synced yet, this will take a long time (approximately 500MB as of Sept 2016). Please run `pod setup` first to sync the repo.
+```
 mkdir -p ~/.cocoapods/repos
 git clone https://github.com/CocoaPods/Specs ~/.cocoapods/repos/master
+```
+2. platforms目录下文件不加入到版本管理中，每次项目构建重新生成    
+
+3. 每次修改www目录下文件之后 重新build一下     
+```
+cordova build ios
+```

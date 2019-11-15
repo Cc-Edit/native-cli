@@ -14,4 +14,6 @@ crodova，一套比较老的框架，前身是phonegap，通过内嵌页面的�
 ## 创建项目
 ```
 $ cordova create native cn.isjs.www HelloWorld
+$ cordova platform add android --save
+$ cordova platform add ios --save
 ```

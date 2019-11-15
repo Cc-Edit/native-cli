@@ -18,3 +18,8 @@ $ cordova platform add android --save  //增加android包
 $ cordova platform add ios --save  //增加ios包
 $ cordova requirements  //检查环境是否满足
 ```
+
+
+1. The CocoaPods repo has not been synced yet, this will take a long time (approximately 500MB as of Sept 2016). Please run `pod setup` first to sync the repo.
+mkdir -p ~/.cocoapods/repos
+git clone https://github.com/CocoaPods/Specs ~/.cocoapods/repos/master

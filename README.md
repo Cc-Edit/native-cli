@@ -1,27 +1,17 @@
-# Introduction
+## 心路历程
+  最近调研了一下各个native方案。目标是找一个快速将H5页面生成APP的方案。
+将vue页面快速转换为native页面。
+首先原生编写门槛太高，放弃掉
+其次weex，rn本质上只是使用前端代码来进行页面编写，有一层翻译器将前端代码翻译为native代码。
+这种方案并不能发挥出页面快速迭代的优点，并且翻译过程中一定还有坑的存在。
+最终我决定使用hybrid APP形式来开发APP。
+通过内嵌页面，既保留页面功能的完整性，也可以灵活扩展。
+找了两个认为比较好的开源库。
+uniApp,一套代码多端运行，如果页面较为简单，对小程序的要求高，建议选择此方案。能预见的是随着平台的增加，对应的判断模块也会增多。
+开发，调试的困难不小。
+crodova，一套比较老的框架，前身是phonegap，通过内嵌页面的形式开发页面。
 
-This boilerplate is targeted towards large, serious projects and assumes you are somewhat familiar with Webpack and `weex-loader`. 
-
-## Quickstart
-
-To use this template, scaffold a project with [weexpack v1.1.1+](https://github.com/weexteam/weex-pack).
-
-``` bash
-$ npm install -g weex-toolkit
-$ weex create my-project # default will create the webpack template
-$ cd my-project && npm start
+## 创建项目
 ```
-
-## How to use less/sass/pug
-
-Take `sass` for example:
-
+$ cordova create native cn.isjs.www HelloWorld
 ```
-$ npm i node-sass sass-loader --save
-```
-
-Then, you just need to change the `style` tag as: `<style lang="sass"><style>`.
-
-## How to create your own template
-
-See [How-to-create-your-own-template](https://github.com/weex-templates/How-to-create-your-own-template).

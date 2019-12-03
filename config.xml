@@ -4,7 +4,7 @@
     <description>项目说明</description>
     <author email="Mimo@Mimo.cn" href="http://Mimo.com">Mimo</author>
     <content src="index.html" />
-    <preference name="DisallowOverscroll" value="true"/>
+    <preference name="DisallowOverscroll" value="true" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />

@@ -30,8 +30,6 @@
       "cordova-plugin-splashscreen": {},
       "cordova-plugin-statusbar": {}
     },
-    "platforms": [
-      "ios"
-    ]
+    "platforms": []
   }
 }

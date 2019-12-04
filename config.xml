@@ -5,6 +5,7 @@
     <author email="Mimo@Mimo.cn" href="http://Mimo.com">Mimo</author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
+    <preference name="AppendUserAgent" value="cordova" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />

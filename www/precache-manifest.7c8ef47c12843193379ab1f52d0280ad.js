@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/BankList.e4baebec.css"
   },
   {
-    "revision": "fdfdc5c08e058e9717c4",
-    "url": "css/BillDetail.17dfd626.css"
+    "revision": "010f72e5cf11d8e73930",
+    "url": "css/BillDetail.f2251afc.css"
   },
   {
     "revision": "8fa411c6c1df2cf2344a",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/Loan.eafe90a1.css"
   },
   {
-    "revision": "3f4d5dbb4c2f09c31716",
-    "url": "css/LoanConfirm.068ad573.css"
+    "revision": "f69201f1aa6d6625755c",
+    "url": "css/LoanConfirm.6bc49a41.css"
   },
   {
     "revision": "a9e4423d4fa9d12a86ed",
@@ -56,16 +56,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/Myinfo.16dc16d8.css"
   },
   {
-    "revision": "6c5f42973a8ba851975a",
-    "url": "css/Register.7bd17ee4.css"
+    "revision": "1d19e5560f343f99974f",
+    "url": "css/Register.f02b41ec.css"
   },
   {
     "revision": "f4da11e75e9c8c75b19e",
     "url": "css/RegisterPassword.0500a77c.css"
   },
   {
-    "revision": "e3b73de039c2ebaf66a5",
-    "url": "css/Repayment.94e7392a.css"
+    "revision": "6480d315fe7cf06e46af",
+    "url": "css/Repayment.e5dbd9ce.css"
   },
   {
     "revision": "aed1c76d251790cc8d1c",
@@ -76,16 +76,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/Status.83b83ca2.css"
   },
   {
-    "revision": "d2db2f18808ce7395343",
-    "url": "css/Wealth.fec77e6a.css"
+    "revision": "32f0f6578296482a4692",
+    "url": "css/Wealth.2488dac0.css"
   },
   {
     "revision": "f5bfa8ea04bb56e9d2e1",
     "url": "css/chunk-vendors.985cf834.css"
   },
   {
-    "revision": "f85029997d92fe47248d",
-    "url": "css/index.dab8bd97.css"
+    "revision": "ce67adede881f620ddc4",
+    "url": "css/index.2c7afa01.css"
   },
   {
     "revision": "c58a434861d65a58b7c71afdbacc72bb",
@@ -148,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/success_icon.f6056d07.png"
   },
   {
-    "revision": "8c61a2f34d6264ab216980bccfede07e",
+    "revision": "f447fdf6c7a1765b357efdd4aff850fa",
     "url": "index.html"
   },
   {
@@ -160,8 +160,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/BankList.d0c58a2c.js"
   },
   {
-    "revision": "fdfdc5c08e058e9717c4",
-    "url": "js/BillDetail.9c08ea07.js"
+    "revision": "010f72e5cf11d8e73930",
+    "url": "js/BillDetail.24bc4775.js"
   },
   {
     "revision": "8fa411c6c1df2cf2344a",
@@ -192,8 +192,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/Loan.470eeb8f.js"
   },
   {
-    "revision": "3f4d5dbb4c2f09c31716",
-    "url": "js/LoanConfirm.64594709.js"
+    "revision": "f69201f1aa6d6625755c",
+    "url": "js/LoanConfirm.8efc9d5b.js"
   },
   {
     "revision": "a9e4423d4fa9d12a86ed",
@@ -208,16 +208,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/Myinfo.6b41b0b3.js"
   },
   {
-    "revision": "6c5f42973a8ba851975a",
-    "url": "js/Register.57928a26.js"
+    "revision": "1d19e5560f343f99974f",
+    "url": "js/Register.d0ed7c0c.js"
   },
   {
     "revision": "f4da11e75e9c8c75b19e",
     "url": "js/RegisterPassword.8ba6c279.js"
   },
   {
-    "revision": "e3b73de039c2ebaf66a5",
-    "url": "js/Repayment.17ee8d0a.js"
+    "revision": "6480d315fe7cf06e46af",
+    "url": "js/Repayment.0274d484.js"
   },
   {
     "revision": "aed1c76d251790cc8d1c",
@@ -228,16 +228,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/Status.42784d02.js"
   },
   {
-    "revision": "d2db2f18808ce7395343",
-    "url": "js/Wealth.3cf8156c.js"
+    "revision": "32f0f6578296482a4692",
+    "url": "js/Wealth.7389cd33.js"
   },
   {
     "revision": "f5bfa8ea04bb56e9d2e1",
     "url": "js/chunk-vendors.f473ea92.js"
   },
   {
-    "revision": "f85029997d92fe47248d",
-    "url": "js/index.5395405e.js"
+    "revision": "ce67adede881f620ddc4",
+    "url": "js/index.d56f93cd.js"
   },
   {
     "revision": "4ea5e5806a765d92a0ca4fd76b4946ce",

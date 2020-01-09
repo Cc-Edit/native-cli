@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/EditPhone.cd52cd14.css"
   },
   {
-    "revision": "ceffe0f9bcdbbbc4910c",
-    "url": "css/ForgetPassword.e9d7a148.css"
+    "revision": "8fd2502a49b7a610df96",
+    "url": "css/ForgetPassword.901d52e0.css"
   },
   {
     "revision": "2fdb7a1751695dd3837a",
@@ -56,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/Myinfo.16dc16d8.css"
   },
   {
-    "revision": "1d19e5560f343f99974f",
-    "url": "css/Register.f02b41ec.css"
+    "revision": "509f78ae14e6d5f9c286",
+    "url": "css/Register.719540fc.css"
   },
   {
-    "revision": "f4da11e75e9c8c75b19e",
-    "url": "css/RegisterPassword.0500a77c.css"
+    "revision": "084758332e5371ba13fa",
+    "url": "css/RegisterPassword.1fb682b9.css"
   },
   {
     "revision": "6480d315fe7cf06e46af",
@@ -84,7 +84,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/chunk-vendors.985cf834.css"
   },
   {
-    "revision": "ce67adede881f620ddc4",
+    "revision": "57a543f4a9a9cc8bdc39",
     "url": "css/index.2c7afa01.css"
   },
   {
@@ -148,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/success_icon.f6056d07.png"
   },
   {
-    "revision": "f447fdf6c7a1765b357efdd4aff850fa",
+    "revision": "88895140527ef0fa4e1f5d9d9c9b387e",
     "url": "index.html"
   },
   {
@@ -184,8 +184,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/EditPhone.ea97fbe5.js"
   },
   {
-    "revision": "ceffe0f9bcdbbbc4910c",
-    "url": "js/ForgetPassword.045dc70c.js"
+    "revision": "8fd2502a49b7a610df96",
+    "url": "js/ForgetPassword.00df6adb.js"
   },
   {
     "revision": "2fdb7a1751695dd3837a",
@@ -208,12 +208,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/Myinfo.6b41b0b3.js"
   },
   {
-    "revision": "1d19e5560f343f99974f",
-    "url": "js/Register.d0ed7c0c.js"
+    "revision": "509f78ae14e6d5f9c286",
+    "url": "js/Register.f8c7a4d7.js"
   },
   {
-    "revision": "f4da11e75e9c8c75b19e",
-    "url": "js/RegisterPassword.8ba6c279.js"
+    "revision": "084758332e5371ba13fa",
+    "url": "js/RegisterPassword.f2b7e4d3.js"
   },
   {
     "revision": "6480d315fe7cf06e46af",
@@ -236,8 +236,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-vendors.f473ea92.js"
   },
   {
-    "revision": "ce67adede881f620ddc4",
-    "url": "js/index.d56f93cd.js"
+    "revision": "57a543f4a9a9cc8bdc39",
+    "url": "js/index.3760a784.js"
   },
   {
     "revision": "4ea5e5806a765d92a0ca4fd76b4946ce",

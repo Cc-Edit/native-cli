@@ -76,16 +76,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/Status.83b83ca2.css"
   },
   {
-    "revision": "32f0f6578296482a4692",
-    "url": "css/Wealth.2488dac0.css"
+    "revision": "18b11cc2cf83467056a4",
+    "url": "css/Wealth.3f67314c.css"
   },
   {
     "revision": "f5bfa8ea04bb56e9d2e1",
     "url": "css/chunk-vendors.985cf834.css"
   },
   {
-    "revision": "57a543f4a9a9cc8bdc39",
-    "url": "css/index.2c7afa01.css"
+    "revision": "3cfe316a9c512ae127b6",
+    "url": "css/index.6df95afe.css"
   },
   {
     "revision": "c58a434861d65a58b7c71afdbacc72bb",
@@ -148,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/success_icon.f6056d07.png"
   },
   {
-    "revision": "88895140527ef0fa4e1f5d9d9c9b387e",
+    "revision": "65f30499b053fc3e7fc030161ef4a644",
     "url": "index.html"
   },
   {
@@ -228,16 +228,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/Status.42784d02.js"
   },
   {
-    "revision": "32f0f6578296482a4692",
-    "url": "js/Wealth.7389cd33.js"
+    "revision": "18b11cc2cf83467056a4",
+    "url": "js/Wealth.9bfe3c28.js"
   },
   {
     "revision": "f5bfa8ea04bb56e9d2e1",
     "url": "js/chunk-vendors.f473ea92.js"
   },
   {
-    "revision": "57a543f4a9a9cc8bdc39",
-    "url": "js/index.3760a784.js"
+    "revision": "3cfe316a9c512ae127b6",
+    "url": "js/index.28d5828d.js"
   },
   {
     "revision": "4ea5e5806a765d92a0ca4fd76b4946ce",

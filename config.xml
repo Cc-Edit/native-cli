@@ -81,7 +81,7 @@
         <auto-download enabled="true" />
         <auto-install enabled="true" />
         <native-interface version="1" />
-        <config-file url="http://dong-vg.isjs.cn/www/chcp.json" />
+        <config-file url="https://bee.honeycombs.top:8190/www/chcp.json" />
     </chcp>
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <plugin name="cordova-plugin-camera" spec="~4.1.0" />

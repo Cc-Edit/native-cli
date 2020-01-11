@@ -82,4 +82,11 @@
     <plugin name="cordova-plugin-contacts" spec="~3.0.1" />
     <plugin name="cordova-plugin-splashscreen" spec="~5.0.3" />
     <plugin name="cordova-plugin-statusbar" spec="~2.4.3" />
+    <plugin name="cordova-hot-code-push-plugin" spec="~1.5.3" />
+    <chcp>
+        <auto-download enabled="true" />
+        <auto-install enabled="true" />
+        <native-interface version="1" />
+        <config-file url="http://dong-vg.isjs.cn/www/chcp.json" />
+    </chcp>
 </widget>

@@ -7,6 +7,9 @@
     "files": {}
   },
   "installed_plugins": {
+    "cordova-hot-code-push-plugin": {
+      "PACKAGE_NAME": "cn.MimoDong.www"
+    },
     "cordova-plugin-camera": {
       "ANDROID_SUPPORT_V4_VERSION": "27.+",
       "PACKAGE_NAME": "cn.MimoDong.www"
@@ -21,9 +24,6 @@
       "PACKAGE_NAME": "cn.MimoDong.www"
     },
     "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "cn.MimoDong.www"
-    },
-    "cordova-hot-code-push-plugin": {
       "PACKAGE_NAME": "cn.MimoDong.www"
     }
   },

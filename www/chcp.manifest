@@ -1,0 +1,318 @@
+[
+  {
+    "file": "css/AddBankCard.7ad86ee1.css",
+    "hash": "3a1f6dd6c49b1076656f08fdfc4ec9f9"
+  },
+  {
+    "file": "css/BankList.e4baebec.css",
+    "hash": "77b54664668ace9305397e0df89f20b0"
+  },
+  {
+    "file": "css/BillDetail.f2251afc.css",
+    "hash": "4480041da5ce0fc5fe517ea419dfda4d"
+  },
+  {
+    "file": "css/chunk-vendors.985cf834.css",
+    "hash": "d503d9dedfb8d3c73a8f68a1a7455ae9"
+  },
+  {
+    "file": "css/Credit.da2f0228.css",
+    "hash": "36a99cacf4b889201a98282dfef09394"
+  },
+  {
+    "file": "css/CreditStatus.94ac46c3.css",
+    "hash": "21eecd17e5610f9e12c53ffeb0b788ad"
+  },
+  {
+    "file": "css/CreditUpfile.b99b06c7.css",
+    "hash": "593be485eb0f933ee0f86df4c80ccfc3"
+  },
+  {
+    "file": "css/EditPassword.e9838423.css",
+    "hash": "2ca480ab5580dc43b78cd5ae5d8ad774"
+  },
+  {
+    "file": "css/EditPhone.cd52cd14.css",
+    "hash": "0254b6deeb54bfc535b33b9b2b9ef51d"
+  },
+  {
+    "file": "css/ForgetPassword.901d52e0.css",
+    "hash": "f9ad125ec42f2a79d1fd2789448f1b60"
+  },
+  {
+    "file": "css/index.2c7afa01.css",
+    "hash": "0f48fe4921f4bf858ccf406e28aadc43"
+  },
+  {
+    "file": "css/Loan.eafe90a1.css",
+    "hash": "ce0ffd248502da0ee3220e8e13111436"
+  },
+  {
+    "file": "css/LoanConfirm.6bc49a41.css",
+    "hash": "d7c8b21ed1add0bc610a94b83a8b7995"
+  },
+  {
+    "file": "css/LoanResult.ef517911.css",
+    "hash": "b51f9368f93d3bfd0a2e89b2dbf9c9a8"
+  },
+  {
+    "file": "css/Login.45a5c768.css",
+    "hash": "d60c629c802c5da4fba6fda6227ea692"
+  },
+  {
+    "file": "css/Myinfo.16dc16d8.css",
+    "hash": "59bc267f9142e0124aa9a0f439847265"
+  },
+  {
+    "file": "css/Register.719540fc.css",
+    "hash": "8ee1fabca7a58140016e15a88a6cd380"
+  },
+  {
+    "file": "css/RegisterPassword.1fb682b9.css",
+    "hash": "abd28065b1eef05b23bb66adad3f6272"
+  },
+  {
+    "file": "css/Repayment.e5dbd9ce.css",
+    "hash": "0a356f8195566a6814b41f77ed908ca7"
+  },
+  {
+    "file": "css/RepaymentResult.75a34077.css",
+    "hash": "24bc4aa5da16e8522991f012e8337fa2"
+  },
+  {
+    "file": "css/Status.83b83ca2.css",
+    "hash": "ce0234cd7238bde6ea5d263a2762816f"
+  },
+  {
+    "file": "css/Wealth.2488dac0.css",
+    "hash": "ab443464096d6d46da99cdf8de5b3d6e"
+  },
+  {
+    "file": "favicon.ico",
+    "hash": "a78bd30d4407ee3f268fc393bc052962"
+  },
+  {
+    "file": "img/bank_bg_blue.c58a4348.png",
+    "hash": "c58a434861d65a58b7c71afdbacc72bb"
+  },
+  {
+    "file": "img/bank_bg_red.671f096c.png",
+    "hash": "671f096cf668290c3537436f75b896e6"
+  },
+  {
+    "file": "img/banner/banner.png",
+    "hash": "894c275e0b67cb451b9a2a87612b8281"
+  },
+  {
+    "file": "img/bg_login.9c53d6c3.png",
+    "hash": "9c53d6c3d2746f1c65d896b1435d3e2a"
+  },
+  {
+    "file": "img/bg_myinfo.c99f87af.png",
+    "hash": "c99f87afb66d184ce38cff19b03b18ce"
+  },
+  {
+    "file": "img/bg_wealth.7e222b53.png",
+    "hash": "7e222b536182bf8f85e32a7f1eff2407"
+  },
+  {
+    "file": "img/credit-1.ac7ba652.png",
+    "hash": "ac7ba65297730c70187a36e756546413"
+  },
+  {
+    "file": "img/credit-2.f7f1dade.png",
+    "hash": "f7f1dade0624797ecea1fbd248381ea4"
+  },
+  {
+    "file": "img/credit-bg.0ddf2747.png",
+    "hash": "0ddf2747a386853c53dc864b2cb983a8"
+  },
+  {
+    "file": "img/defaultPhoto.png",
+    "hash": "c69250881c4d080a3722a2c46efdcfe0"
+  },
+  {
+    "file": "img/examine_watting.e581f193.png",
+    "hash": "e581f1936e797434541e52d6ace80982"
+  },
+  {
+    "file": "img/fail_icon.2384df07.png",
+    "hash": "2384df07aa73bcaa6fd616ea0fd2de57"
+  },
+  {
+    "file": "img/icons/android-chrome-192x192.png",
+    "hash": "f130a0b70e386170cf6f011c0ca8c4f4"
+  },
+  {
+    "file": "img/icons/android-chrome-512x512.png",
+    "hash": "0ff1bc4d14e5c9abcacba7c600d97814"
+  },
+  {
+    "file": "img/icons/apple-touch-icon-120x120.png",
+    "hash": "936d6e411cabd71f0e627011c3f18fe2"
+  },
+  {
+    "file": "img/icons/apple-touch-icon-152x152.png",
+    "hash": "1a034e64d80905128113e5272a5ab95e"
+  },
+  {
+    "file": "img/icons/apple-touch-icon-180x180.png",
+    "hash": "c43cd371a49ee4ca17ab3a60e72bdd51"
+  },
+  {
+    "file": "img/icons/apple-touch-icon-60x60.png",
+    "hash": "9a2b5c0f19de617685b7b5b42464e7db"
+  },
+  {
+    "file": "img/icons/apple-touch-icon-76x76.png",
+    "hash": "af28d69d59284dd202aa55e57227b11b"
+  },
+  {
+    "file": "img/icons/apple-touch-icon.png",
+    "hash": "66830ea6be8e7e94fb55df9f7b778f2e"
+  },
+  {
+    "file": "img/icons/favicon-16x16.png",
+    "hash": "4bb1a55479d61843b89a2fdafa7849b3"
+  },
+  {
+    "file": "img/icons/favicon-32x32.png",
+    "hash": "98b614336d9a12cb3f7bedb001da6fca"
+  },
+  {
+    "file": "img/icons/msapplication-icon-144x144.png",
+    "hash": "b89032a4a5a1879f30ba05a13947f26f"
+  },
+  {
+    "file": "img/icons/mstile-150x150.png",
+    "hash": "058a3335d15a3eb84e7ae3707ba09620"
+  },
+  {
+    "file": "img/icons/safari-pinned-tab.svg",
+    "hash": "f22d501a35a87d9f21701cb031f6ea17"
+  },
+  {
+    "file": "img/login_icon.2adb592e.png",
+    "hash": "2adb592ef6300249f4387f8c5522bb0b"
+  },
+  {
+    "file": "img/nobill.996a5d24.png",
+    "hash": "996a5d24891469c5030a197419368a0a"
+  },
+  {
+    "file": "img/success_icon.f6056d07.png",
+    "hash": "f6056d078e1c6bf6f8aecb534c46fbaf"
+  },
+  {
+    "file": "index.html",
+    "hash": "88895140527ef0fa4e1f5d9d9c9b387e"
+  },
+  {
+    "file": "js/AddBankCard.51360ee1.js",
+    "hash": "0bc05b3930bd5ed718d07326c736d3ac"
+  },
+  {
+    "file": "js/BankList.d0c58a2c.js",
+    "hash": "2494a15805de3c995f0e52772065745b"
+  },
+  {
+    "file": "js/BillDetail.24bc4775.js",
+    "hash": "580738a1328f39288f5939743019eb95"
+  },
+  {
+    "file": "js/chunk-vendors.f473ea92.js",
+    "hash": "1025093a9168318951c14d6ef9593b1e"
+  },
+  {
+    "file": "js/Credit.515857ed.js",
+    "hash": "fcd745f4ef0ea6806a5d4ee39a89c3a2"
+  },
+  {
+    "file": "js/CreditStatus.5b3a8e15.js",
+    "hash": "cd74e59c6523945bbf6caa21ade9f929"
+  },
+  {
+    "file": "js/CreditUpfile.8315f974.js",
+    "hash": "af245a18813538bf0d4bf553da373110"
+  },
+  {
+    "file": "js/EditPassword.0b009cf5.js",
+    "hash": "1c796363fa81072b7aa3e4214b8b3fe0"
+  },
+  {
+    "file": "js/EditPhone.ea97fbe5.js",
+    "hash": "24f74ae73d90ee7d2daaacd5283c1650"
+  },
+  {
+    "file": "js/ForgetPassword.00df6adb.js",
+    "hash": "b070641666daab582d0b8e805fe8e731"
+  },
+  {
+    "file": "js/index.3760a784.js",
+    "hash": "7b69c1aa22f53b85b64cf5b830d52c2a"
+  },
+  {
+    "file": "js/Loan.470eeb8f.js",
+    "hash": "9da8a93a1528dfb199eae0cd34931bc4"
+  },
+  {
+    "file": "js/LoanConfirm.8efc9d5b.js",
+    "hash": "fc2d45619313152fa2cba40c67cc70e5"
+  },
+  {
+    "file": "js/LoanResult.048ef68d.js",
+    "hash": "78cf489dd7157b1275eae0c7d2356285"
+  },
+  {
+    "file": "js/Login.e1a0ad13.js",
+    "hash": "fcda98e8cc8ce2c87a6754d8e43138f2"
+  },
+  {
+    "file": "js/Myinfo.6b41b0b3.js",
+    "hash": "77643b99b5a746e6b51b13728d68a496"
+  },
+  {
+    "file": "js/Register.f8c7a4d7.js",
+    "hash": "f0754c4932c9b19b8f965a4834bd3a5b"
+  },
+  {
+    "file": "js/RegisterPassword.f2b7e4d3.js",
+    "hash": "74675bddeebe507e06856364bed6d92e"
+  },
+  {
+    "file": "js/Repayment.0274d484.js",
+    "hash": "a91331f1e6a0fe4c9be14be8dca889fd"
+  },
+  {
+    "file": "js/RepaymentResult.a6e75d7d.js",
+    "hash": "816d3252ec4e80bdf3fe9001af5e333a"
+  },
+  {
+    "file": "js/Status.42784d02.js",
+    "hash": "fba09582faa4c15810ebacd4281bef45"
+  },
+  {
+    "file": "js/Wealth.7389cd33.js",
+    "hash": "2b467df5b6f05888ed8bd08cbc08ffd9"
+  },
+  {
+    "file": "manifest.json",
+    "hash": "4ea5e5806a765d92a0ca4fd76b4946ce"
+  },
+  {
+    "file": "precache-manifest.6acaf4423716504356596e8771ea8817.js",
+    "hash": "6acaf4423716504356596e8771ea8817"
+  },
+  {
+    "file": "robots.txt",
+    "hash": "b6216d61c03e6ce0c9aea6ca7808f7ca"
+  },
+  {
+    "file": "service-worker.js",
+    "hash": "880b17c8ccfced9d45cb4fd7c7937e03"
+  },
+  {
+    "file": "static/echarts-all.js",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  }
+]

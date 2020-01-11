@@ -40,3 +40,7 @@ git clone https://github.com/CocoaPods/Specs ~/.cocoapods/repos/master
 ```
 cordova build ios
 ```
+
+npm run updateAnd
+chcp.json
+chcp.manifest 不要删除，删除后执行 cordova-hcp build

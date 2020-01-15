@@ -56,16 +56,16 @@
     "hash": "b51f9368f93d3bfd0a2e89b2dbf9c9a8"
   },
   {
-    "file": "css/Login.45a5c768.css",
-    "hash": "d60c629c802c5da4fba6fda6227ea692"
+    "file": "css/Login.633be179.css",
+    "hash": "34578bcab5f281c31a1e3b042466654d"
   },
   {
     "file": "css/Myinfo.16dc16d8.css",
     "hash": "59bc267f9142e0124aa9a0f439847265"
   },
   {
-    "file": "css/Register.719540fc.css",
-    "hash": "8ee1fabca7a58140016e15a88a6cd380"
+    "file": "css/Register.db5a10d2.css",
+    "hash": "1a2964f0697b80951cb1cfc776e7fa68"
   },
   {
     "file": "css/RegisterPassword.1fb682b9.css",
@@ -205,7 +205,7 @@
   },
   {
     "file": "index.html",
-    "hash": "65f30499b053fc3e7fc030161ef4a644"
+    "hash": "7f0ceb72f71ce3ba1c30c6233240632a"
   },
   {
     "file": "js/AddBankCard.51360ee1.js",
@@ -248,8 +248,8 @@
     "hash": "b070641666daab582d0b8e805fe8e731"
   },
   {
-    "file": "js/index.28d5828d.js",
-    "hash": "35202ac47b59f6fc9edda246caad9408"
+    "file": "js/index.c1101982.js",
+    "hash": "9669ac7e5f1ed542d1ec9228bbf81575"
   },
   {
     "file": "js/Loan.470eeb8f.js",
@@ -264,16 +264,16 @@
     "hash": "78cf489dd7157b1275eae0c7d2356285"
   },
   {
-    "file": "js/Login.e1a0ad13.js",
-    "hash": "fcda98e8cc8ce2c87a6754d8e43138f2"
+    "file": "js/Login.dbb51b44.js",
+    "hash": "d6d24904ce353d9468b0ad33cc107227"
   },
   {
     "file": "js/Myinfo.6b41b0b3.js",
     "hash": "77643b99b5a746e6b51b13728d68a496"
   },
   {
-    "file": "js/Register.f8c7a4d7.js",
-    "hash": "f0754c4932c9b19b8f965a4834bd3a5b"
+    "file": "js/Register.49cf8975.js",
+    "hash": "b0ee5e9c20a7af6ed637de61f84b1ad3"
   },
   {
     "file": "js/RegisterPassword.f2b7e4d3.js",
@@ -300,8 +300,8 @@
     "hash": "4ea5e5806a765d92a0ca4fd76b4946ce"
   },
   {
-    "file": "precache-manifest.e76188230cee074dd9b85a2e749cdffa.js",
-    "hash": "e76188230cee074dd9b85a2e749cdffa"
+    "file": "precache-manifest.c44e3fbb44d08a5827bd77209ab8ed35.js",
+    "hash": "c44e3fbb44d08a5827bd77209ab8ed35"
   },
   {
     "file": "robots.txt",
@@ -309,7 +309,7 @@
   },
   {
     "file": "service-worker.js",
-    "hash": "6ca3c2d4544337689c84747111bb9149"
+    "hash": "db000cfb691af9b92d11e475d3b95318"
   },
   {
     "file": "static/echarts-all.js",

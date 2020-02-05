@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="cn.MimoDong.www" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Mimo Dong</name>
+<widget id="cn.VPCredit.www" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>VP Credit</name>
     <description>项目说明</description>
-    <author email="Mimo@Mimo.cn" href="http://Mimo.com">Mimo</author>
+    <author email="vp-credit@dong.cn" href="http://vp-credit.com">VP Credit</author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="AppendUserAgent" value="cordova" />
@@ -81,7 +81,7 @@
         <auto-download enabled="true" />
         <auto-install enabled="true" />
         <native-interface version="1" />
-        <config-file url="https://bee.honeycombs.top:8190/www/chcp.json" />
+        <config-file url="http://vp-credit.isjs.cn/www/chcp.json" />
     </chcp>
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <plugin name="cordova-plugin-camera" spec="~4.1.0" />

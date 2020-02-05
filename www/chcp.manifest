@@ -1,11 +1,11 @@
 [
   {
-    "file": "css/AddBankCard.ca01f267.css",
-    "hash": "ca82d117590ea2104c3269ce627bb0d6"
+    "file": "css/AddBankCard.ecb5d504.css",
+    "hash": "6ae6f68fee2ae1d50f48f0282350f52b"
   },
   {
-    "file": "css/BankList.bc3b5cc8.css",
-    "hash": "1e8953703bea33bbc879d36fcbe35bbd"
+    "file": "css/BankList.d79371ab.css",
+    "hash": "fd83f222ef889397f101788d02c8dc6e"
   },
   {
     "file": "css/BillDetail.e58ddcdf.css",
@@ -20,12 +20,12 @@
     "hash": "c1391fee1b7f1cb1e061bd34969baa40"
   },
   {
-    "file": "css/CreditStatus.3221d7b3.css",
-    "hash": "9326eefc9479c5b7775b2258c9fea2dc"
+    "file": "css/CreditStatus.79d1772f.css",
+    "hash": "5bb8a66dc8d86f0b410c1d6840deb4a1"
   },
   {
-    "file": "css/CreditUpfile.a9bc1f96.css",
-    "hash": "84ab20e2863495540ac962af1b338abd"
+    "file": "css/CreditUpfile.70f74f1a.css",
+    "hash": "62a16571aca07dd62c59a9a33f3c20d1"
   },
   {
     "file": "css/EditPassword.d41ba107.css",
@@ -44,28 +44,28 @@
     "hash": "a2e21ce8aa371fcfb8ddd23d28c21044"
   },
   {
-    "file": "css/Loan.9c365f4a.css",
-    "hash": "ca1fc6b19a3f3aaef0b329be412dd4e7"
+    "file": "css/Loan.23448821.css",
+    "hash": "eeb1ca96f405e12b9b52c5ce1885ed2a"
   },
   {
     "file": "css/LoanConfirm.aa05865b.css",
     "hash": "a72a78a5bd7ebe47c0b345f49d8ca382"
   },
   {
-    "file": "css/LoanResult.0b4fe794.css",
-    "hash": "9ccc263b3cff5a88eee1615655281579"
+    "file": "css/LoanResult.b4bbb8aa.css",
+    "hash": "5f0602a009834b53a67081b9fb26e712"
   },
   {
-    "file": "css/Login.7cdc11df.css",
-    "hash": "2c9fd16a6a650e42d1f3a1126eddd1af"
+    "file": "css/Login.cafecbc4.css",
+    "hash": "1aeff0c984e750c00d5171f1d2ad14a2"
   },
   {
-    "file": "css/Myinfo.f452d8b7.css",
-    "hash": "2d2fc0d2c68e37cdab4ad7e52f8a71ee"
+    "file": "css/Myinfo.b1278092.css",
+    "hash": "50b3c95d71fbc908774f7662e2d7ec99"
   },
   {
-    "file": "css/Register.88e547fb.css",
-    "hash": "4a73a81c02968960ab099606b091300b"
+    "file": "css/Register.fcb64e7c.css",
+    "hash": "7505338802c4c16d11a3273b55567114"
   },
   {
     "file": "css/RegisterPassword.1fb682b9.css",
@@ -84,20 +84,20 @@
     "hash": "04e1f24c58c7abd15bed3e0a6bfdeaf1"
   },
   {
-    "file": "css/Wealth.62ff4198.css",
-    "hash": "d8b82dce24d9682387cba9c0f24601ee"
+    "file": "css/Wealth.70a22e0d.css",
+    "hash": "db9b3bee049ac34de114d5f3c31913aa"
   },
   {
     "file": "favicon.ico",
     "hash": "a78bd30d4407ee3f268fc393bc052962"
   },
   {
-    "file": "img/bank_bg_blue.0dc662a8.png",
-    "hash": "0dc662a82d62d2790323943781865c9b"
+    "file": "img/bank_bg_blue.6170bd1d.png",
+    "hash": "6170bd1d7442a52a5bc5a61bdf5cfbdb"
   },
   {
-    "file": "img/bank_bg_red.f84e586e.png",
-    "hash": "f84e586ea5d9dfd0a0435ed5120e8cb9"
+    "file": "img/bank_bg_red.58695525.png",
+    "hash": "5869552530a3ea2ac12285cde6e6c63f"
   },
   {
     "file": "img/banner/banner-new.png",
@@ -108,12 +108,12 @@
     "hash": "894c275e0b67cb451b9a2a87612b8281"
   },
   {
-    "file": "img/bg_login.539d2ffd.png",
-    "hash": "539d2ffd7ab3c1c7441c1620f272fb0e"
+    "file": "img/bg_login.66157896.png",
+    "hash": "6615789663fa480167491ad7448577e8"
   },
   {
-    "file": "img/bg_wealth.d62a77c0.png",
-    "hash": "d62a77c0ccbdc78592d7a3f9601cf0e3"
+    "file": "img/bg_wealth.b88d9165.png",
+    "hash": "b88d9165c3706e8d85faa182fdc1f750"
   },
   {
     "file": "img/credit-1.ac7ba652.png",
@@ -128,28 +128,12 @@
     "hash": "0ddf2747a386853c53dc864b2cb983a8"
   },
   {
-    "file": "img/credit-file.77dc3e98.png",
-    "hash": "77dc3e98bb240129e0b8293dd4af0ad1"
-  },
-  {
-    "file": "img/credit-icon-1.868b1968.png",
-    "hash": "868b1968cac7f894b2036f8cd526d5d0"
-  },
-  {
-    "file": "img/credit-id.e093edf8.png",
-    "hash": "e093edf8168f7381720d27e8991d70dc"
-  },
-  {
-    "file": "img/credit-salef.50815045.png",
-    "hash": "508150457040fe409f6a1aaf499dd3aa"
-  },
-  {
     "file": "img/defaultPhoto.png",
     "hash": "c69250881c4d080a3722a2c46efdcfe0"
   },
   {
-    "file": "img/examine_watting.628b6cee.png",
-    "hash": "628b6ceedb08ac3f9b73d9e024cbd049"
+    "file": "img/examine_watting.05dad3e1.png",
+    "hash": "05dad3e1d2536473322c0d281d4b1e41"
   },
   {
     "file": "img/examine_watting.e581f193.png",
@@ -160,20 +144,8 @@
     "hash": "2384df07aa73bcaa6fd616ea0fd2de57"
   },
   {
-    "file": "img/fail_icon.d63b78e5.png",
-    "hash": "d63b78e55e3a780f1b00335a16e8c4cb"
-  },
-  {
-    "file": "img/icon_my_card.c467bbe9.png",
-    "hash": "c467bbe9449911fb7e5f28e8e4cb8aba"
-  },
-  {
-    "file": "img/icon_my_online_service.fe17031f.png",
-    "hash": "fe17031fceb8578ab5435702e1ea1573"
-  },
-  {
-    "file": "img/icon_my_versions.2ec0fa63.png",
-    "hash": "2ec0fa63e30fd100ae97993fa5927a97"
+    "file": "img/fail_icon.b5135350.png",
+    "hash": "b51353504ddf3ef1ecd71f877782d52e"
   },
   {
     "file": "img/icons/android-chrome-192x192.png",
@@ -228,36 +200,32 @@
     "hash": "f22d501a35a87d9f21701cb031f6ea17"
   },
   {
-    "file": "img/judai_watting.ecdd55b4.png",
-    "hash": "ecdd55b4f53c34f79bf342eb1a8d8e3f"
+    "file": "img/judai_watting.915f048b.png",
+    "hash": "915f048b3a1ca75bd1711350147b8d42"
   },
   {
-    "file": "img/login_icon.955fc345.png",
-    "hash": "955fc3455d0c3a835fd58cea36b5d26f"
+    "file": "img/login_icon.56aef2ff.png",
+    "hash": "56aef2ff85f073f771abc32654518685"
   },
   {
     "file": "img/new/defaultPhoto.png",
     "hash": "2738009d7bc3a20de8add0c0ddcf4cec"
   },
   {
-    "file": "img/nobill.4977ec1d.png",
-    "hash": "4977ec1ddbe7132cc730843009d6847b"
+    "file": "img/nobill.ea4aee56.png",
+    "hash": "ea4aee562205d48dd9c6cfcf64d7c242"
   },
   {
-    "file": "img/success_icon.e4d53246.png",
-    "hash": "e4d532463e8bd0ba6f0686039f3eef9b"
+    "file": "img/success_icon.1ae0f1f8.png",
+    "hash": "1ae0f1f8623433f5b932b6c6443acb25"
   },
   {
     "file": "img/success_icon.f6056d07.png",
     "hash": "f6056d078e1c6bf6f8aecb534c46fbaf"
   },
   {
-    "file": "img/warning_icon.710fe3d9.png",
-    "hash": "710fe3d90c62dd3589650b91f0680342"
-  },
-  {
     "file": "index.html",
-    "hash": "3d104a378d3dbb3eb29ec9de2cabc524"
+    "hash": "cedbe58c5957cac52023c7e3213ef1a1"
   },
   {
     "file": "js/AddBankCard.f1fe2cc7.js",
@@ -300,8 +268,8 @@
     "hash": "b070641666daab582d0b8e805fe8e731"
   },
   {
-    "file": "js/index.0d46a0be.js",
-    "hash": "201e388f8984f939f0a8848011c0580c"
+    "file": "js/index.247df671.js",
+    "hash": "ba7348e1923fee3c65cbcc181fa36e36"
   },
   {
     "file": "js/Loan.ab618b68.js",
@@ -316,8 +284,8 @@
     "hash": "695a8f117c415490b2965a9d0d5bc559"
   },
   {
-    "file": "js/Login.f032eb82.js",
-    "hash": "3b63ebdf90bc1b33144eb2891352e5e5"
+    "file": "js/Login.c461ef82.js",
+    "hash": "53661acaac3203f0a46366f8b7a5fff0"
   },
   {
     "file": "js/Myinfo.19d25746.js",
@@ -344,16 +312,16 @@
     "hash": "63f920e14f9f6f6ef6fa82b7f7237ccc"
   },
   {
-    "file": "js/Wealth.39b7ceb6.js",
-    "hash": "a86bc14491ccfade55d8c6d8e59407a8"
+    "file": "js/Wealth.d61504e8.js",
+    "hash": "2b7d625cf78e714157cc4bb8ae63d419"
   },
   {
     "file": "manifest.json",
     "hash": "4ea5e5806a765d92a0ca4fd76b4946ce"
   },
   {
-    "file": "precache-manifest.188b5a9d580af3f8f6d77e58d322c38c.js",
-    "hash": "188b5a9d580af3f8f6d77e58d322c38c"
+    "file": "precache-manifest.fdbb47f2edeeba5f2709fc480787b92b.js",
+    "hash": "fdbb47f2edeeba5f2709fc480787b92b"
   },
   {
     "file": "robots.txt",
@@ -361,7 +329,7 @@
   },
   {
     "file": "service-worker.js",
-    "hash": "f7d5385002a17dc268d74b17130c3433"
+    "hash": "9bc45d9b89c7bdc1f7c6b5a906d36751"
   },
   {
     "file": "static/echarts-all.js",

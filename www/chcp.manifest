@@ -84,8 +84,8 @@
     "hash": "ce0234cd7238bde6ea5d263a2762816f"
   },
   {
-    "file": "css/Wealth.3f67314c.css",
-    "hash": "b19f0ca29e5a1a4684223df006a5b817"
+    "file": "css/Wealth.abe04f0c.css",
+    "hash": "1ee1b3dcaff1b1d9b0193f4c8688e9b0"
   },
   {
     "file": "favicon.ico",
@@ -205,7 +205,7 @@
   },
   {
     "file": "index.html",
-    "hash": "7f0ceb72f71ce3ba1c30c6233240632a"
+    "hash": "6a66cfd2248f7973ed270048da46b212"
   },
   {
     "file": "js/AddBankCard.51360ee1.js",
@@ -248,8 +248,8 @@
     "hash": "b070641666daab582d0b8e805fe8e731"
   },
   {
-    "file": "js/index.c1101982.js",
-    "hash": "9669ac7e5f1ed542d1ec9228bbf81575"
+    "file": "js/index.7a2e1376.js",
+    "hash": "0bbea0382e416d9669aec5a5d8ada01c"
   },
   {
     "file": "js/Loan.470eeb8f.js",
@@ -292,16 +292,16 @@
     "hash": "fba09582faa4c15810ebacd4281bef45"
   },
   {
-    "file": "js/Wealth.9bfe3c28.js",
-    "hash": "2905e32f3d303a7348b7414c37152315"
+    "file": "js/Wealth.a310afe2.js",
+    "hash": "3783c47164261132d8d8cd2d2f9503d6"
   },
   {
     "file": "manifest.json",
     "hash": "4ea5e5806a765d92a0ca4fd76b4946ce"
   },
   {
-    "file": "precache-manifest.c44e3fbb44d08a5827bd77209ab8ed35.js",
-    "hash": "c44e3fbb44d08a5827bd77209ab8ed35"
+    "file": "precache-manifest.fd3026cb4a5f3ea51decf9e14ff46f7e.js",
+    "hash": "fd3026cb4a5f3ea51decf9e14ff46f7e"
   },
   {
     "file": "robots.txt",
@@ -309,7 +309,7 @@
   },
   {
     "file": "service-worker.js",
-    "hash": "db000cfb691af9b92d11e475d3b95318"
+    "hash": "f45aa10cabcf881218d7aefdc4f199ad"
   },
   {
     "file": "static/echarts-all.js",

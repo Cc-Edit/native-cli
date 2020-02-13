@@ -16,8 +16,8 @@
     "hash": "d503d9dedfb8d3c73a8f68a1a7455ae9"
   },
   {
-    "file": "css/Credit.9debce0d.css",
-    "hash": "c1391fee1b7f1cb1e061bd34969baa40"
+    "file": "css/Credit.7125b815.css",
+    "hash": "4e828af32ee7beba84e634074f63e3af"
   },
   {
     "file": "css/CreditStatus.511dd228.css",
@@ -225,7 +225,7 @@
   },
   {
     "file": "index.html",
-    "hash": "774ee80a6e464d58506693c787fa6b80"
+    "hash": "3882d7e694641d9d94c84d3a6cba4a75"
   },
   {
     "file": "js/AddBankCard.f1fe2cc7.js",
@@ -244,8 +244,8 @@
     "hash": "1025093a9168318951c14d6ef9593b1e"
   },
   {
-    "file": "js/Credit.15a53684.js",
-    "hash": "51db3586385b52fff2e11f5223e255a0"
+    "file": "js/Credit.5354b49d.js",
+    "hash": "3e9f065dc51419eb24681973bf542817"
   },
   {
     "file": "js/CreditStatus.93afae4b.js",
@@ -268,8 +268,8 @@
     "hash": "b070641666daab582d0b8e805fe8e731"
   },
   {
-    "file": "js/index.0402e170.js",
-    "hash": "6407e881fd0f509f34b3d7bf2f247134"
+    "file": "js/index.5ad48410.js",
+    "hash": "989a6a85d1f1b5ba4cc895658e4d19f1"
   },
   {
     "file": "js/Loan.ab618b68.js",
@@ -320,8 +320,8 @@
     "hash": "4ea5e5806a765d92a0ca4fd76b4946ce"
   },
   {
-    "file": "precache-manifest.25f3301c766757479019a0f419ecf95f.js",
-    "hash": "25f3301c766757479019a0f419ecf95f"
+    "file": "precache-manifest.e60e443d45fc0dfe364d1648421d0219.js",
+    "hash": "e60e443d45fc0dfe364d1648421d0219"
   },
   {
     "file": "robots.txt",
@@ -329,7 +329,7 @@
   },
   {
     "file": "service-worker.js",
-    "hash": "3c6ad12998b40aac62ded31af6608de6"
+    "hash": "544fb90f5dd248ca36605afbb837c8c0"
   },
   {
     "file": "static/echarts-all.js",

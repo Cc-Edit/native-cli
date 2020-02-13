@@ -24,8 +24,8 @@
     "hash": "48de1f10a42a8072dead8ea7d131a922"
   },
   {
-    "file": "css/CreditUpfile.70f74f1a.css",
-    "hash": "62a16571aca07dd62c59a9a33f3c20d1"
+    "file": "css/CreditUpfile.e78a808c.css",
+    "hash": "9795da682836f9c8a62cc9074f55e490"
   },
   {
     "file": "css/EditPassword.d41ba107.css",
@@ -225,7 +225,7 @@
   },
   {
     "file": "index.html",
-    "hash": "55ad659c53e15bee9df99c4a96da9c2d"
+    "hash": "774ee80a6e464d58506693c787fa6b80"
   },
   {
     "file": "js/AddBankCard.f1fe2cc7.js",
@@ -252,8 +252,8 @@
     "hash": "2e9e1c57850037ed59722144c38769ef"
   },
   {
-    "file": "js/CreditUpfile.a51e1e75.js",
-    "hash": "117a2e3b30a663b3284fd700b1abf1e1"
+    "file": "js/CreditUpfile.5a293ee1.js",
+    "hash": "e1d82ca402ba000ac79fde55ca671bd3"
   },
   {
     "file": "js/EditPassword.6bb30132.js",
@@ -268,8 +268,8 @@
     "hash": "b070641666daab582d0b8e805fe8e731"
   },
   {
-    "file": "js/index.5b443ac2.js",
-    "hash": "d4eebffc392b6c5ac73b66a86a1ca63b"
+    "file": "js/index.0402e170.js",
+    "hash": "6407e881fd0f509f34b3d7bf2f247134"
   },
   {
     "file": "js/Loan.ab618b68.js",
@@ -320,8 +320,8 @@
     "hash": "4ea5e5806a765d92a0ca4fd76b4946ce"
   },
   {
-    "file": "precache-manifest.08195a047b2f33b66a742a2b8796957c.js",
-    "hash": "08195a047b2f33b66a742a2b8796957c"
+    "file": "precache-manifest.25f3301c766757479019a0f419ecf95f.js",
+    "hash": "25f3301c766757479019a0f419ecf95f"
   },
   {
     "file": "robots.txt",
@@ -329,7 +329,7 @@
   },
   {
     "file": "service-worker.js",
-    "hash": "70ca168da60ef9f57fa76e50ae6db927"
+    "hash": "3c6ad12998b40aac62ded31af6608de6"
   },
   {
     "file": "static/echarts-all.js",

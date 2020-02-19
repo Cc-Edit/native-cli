@@ -225,7 +225,7 @@
   },
   {
     "file": "index.html",
-    "hash": "3882d7e694641d9d94c84d3a6cba4a75"
+    "hash": "f8a8e23e6b278a5c0635e435c3627f00"
   },
   {
     "file": "js/AddBankCard.f1fe2cc7.js",
@@ -270,6 +270,10 @@
   {
     "file": "js/index.5ad48410.js",
     "hash": "989a6a85d1f1b5ba4cc895658e4d19f1"
+  },
+  {
+    "file": "js/index.e63f97aa.js",
+    "hash": "de00a8422d376d2d2522ff8d1f815829"
   },
   {
     "file": "js/Loan.ab618b68.js",
@@ -320,6 +324,10 @@
     "hash": "4ea5e5806a765d92a0ca4fd76b4946ce"
   },
   {
+    "file": "precache-manifest.d70bf4c64fbda86dd679028df5ef81c3.js",
+    "hash": "d70bf4c64fbda86dd679028df5ef81c3"
+  },
+  {
     "file": "precache-manifest.e60e443d45fc0dfe364d1648421d0219.js",
     "hash": "e60e443d45fc0dfe364d1648421d0219"
   },
@@ -329,7 +337,7 @@
   },
   {
     "file": "service-worker.js",
-    "hash": "544fb90f5dd248ca36605afbb837c8c0"
+    "hash": "05370e66e9d130f0e143bf0c5196bedd"
   },
   {
     "file": "static/echarts-all.js",

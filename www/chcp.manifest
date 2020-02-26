@@ -16,8 +16,8 @@
     "hash": "d503d9dedfb8d3c73a8f68a1a7455ae9"
   },
   {
-    "file": "css/Credit.7125b815.css",
-    "hash": "4e828af32ee7beba84e634074f63e3af"
+    "file": "css/Credit.43788770.css",
+    "hash": "c4523360ab73aefbe685d649de03f2bf"
   },
   {
     "file": "css/CreditStatus.511dd228.css",
@@ -28,16 +28,16 @@
     "hash": "9795da682836f9c8a62cc9074f55e490"
   },
   {
-    "file": "css/EditPassword.d41ba107.css",
-    "hash": "0b2a4f587c280e6e3dfbcdb3a56b9c6a"
+    "file": "css/EditPassword.f52b7a41.css",
+    "hash": "88e9afd53286e1d974fe66dcb3efb1fe"
   },
   {
-    "file": "css/EditPhone.cd52cd14.css",
-    "hash": "0254b6deeb54bfc535b33b9b2b9ef51d"
+    "file": "css/EditPhone.5a1ea908.css",
+    "hash": "bccfb3165edeb4c5f2da0239ce5efc86"
   },
   {
-    "file": "css/ForgetPassword.901d52e0.css",
-    "hash": "f9ad125ec42f2a79d1fd2789448f1b60"
+    "file": "css/ForgetPassword.dbe8e197.css",
+    "hash": "5fe9afe25101ee890471718493559447"
   },
   {
     "file": "css/index.b0cee824.css",
@@ -225,7 +225,7 @@
   },
   {
     "file": "index.html",
-    "hash": "f8a8e23e6b278a5c0635e435c3627f00"
+    "hash": "a6ed396c2fb8fbb370f94059be6112db"
   },
   {
     "file": "js/AddBankCard.f1fe2cc7.js",
@@ -244,8 +244,8 @@
     "hash": "1025093a9168318951c14d6ef9593b1e"
   },
   {
-    "file": "js/Credit.5354b49d.js",
-    "hash": "3e9f065dc51419eb24681973bf542817"
+    "file": "js/Credit.89550545.js",
+    "hash": "93dcc292c8b87795102ba32077ca3445"
   },
   {
     "file": "js/CreditStatus.93afae4b.js",
@@ -256,24 +256,20 @@
     "hash": "e1d82ca402ba000ac79fde55ca671bd3"
   },
   {
-    "file": "js/EditPassword.6bb30132.js",
-    "hash": "7c76991aa1801f71d2cb1975af3ed37c"
+    "file": "js/EditPassword.70fa3b2a.js",
+    "hash": "cc815b8b38b4b73b62af08c816149979"
   },
   {
-    "file": "js/EditPhone.ea97fbe5.js",
-    "hash": "24f74ae73d90ee7d2daaacd5283c1650"
+    "file": "js/EditPhone.52602b22.js",
+    "hash": "c84148e2a7bd3de75ee319ec84293bdc"
   },
   {
-    "file": "js/ForgetPassword.00df6adb.js",
-    "hash": "b070641666daab582d0b8e805fe8e731"
+    "file": "js/ForgetPassword.9cd69000.js",
+    "hash": "4ff522bf3728cd4d313e71c26c56da41"
   },
   {
-    "file": "js/index.5ad48410.js",
-    "hash": "989a6a85d1f1b5ba4cc895658e4d19f1"
-  },
-  {
-    "file": "js/index.e63f97aa.js",
-    "hash": "de00a8422d376d2d2522ff8d1f815829"
+    "file": "js/index.12c384d8.js",
+    "hash": "65943023b0bac9901bb3f2a1807ad063"
   },
   {
     "file": "js/Loan.ab618b68.js",
@@ -324,12 +320,8 @@
     "hash": "4ea5e5806a765d92a0ca4fd76b4946ce"
   },
   {
-    "file": "precache-manifest.d70bf4c64fbda86dd679028df5ef81c3.js",
-    "hash": "d70bf4c64fbda86dd679028df5ef81c3"
-  },
-  {
-    "file": "precache-manifest.e60e443d45fc0dfe364d1648421d0219.js",
-    "hash": "e60e443d45fc0dfe364d1648421d0219"
+    "file": "precache-manifest.30e6b13e3e940111981e3d48b498ccc0.js",
+    "hash": "30e6b13e3e940111981e3d48b498ccc0"
   },
   {
     "file": "robots.txt",
@@ -337,7 +329,7 @@
   },
   {
     "file": "service-worker.js",
-    "hash": "05370e66e9d130f0e143bf0c5196bedd"
+    "hash": "5cfa652cad194ec25c85d4f35597cd8e"
   },
   {
     "file": "static/echarts-all.js",

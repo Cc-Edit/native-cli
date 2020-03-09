@@ -77,12 +77,6 @@
             <string>need contacts access to search friends</string>
         </edit-config>
     </platform>
-    <chcp>
-        <auto-download enabled="true" />
-        <auto-install enabled="true" />
-        <native-interface version="1" />
-        <config-file url="https://bee.honeycombs.top:8190/www/chcp.json" />
-    </chcp>
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <plugin name="cordova-plugin-camera" spec="~4.1.0" />
     <plugin name="cordova-plugin-contacts" spec="~3.0.1" />

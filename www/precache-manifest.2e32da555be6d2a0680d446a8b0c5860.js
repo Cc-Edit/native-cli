@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/ForgetPassword.dbe8e197.css"
   },
   {
-    "revision": "954ca2dbd8ece77cc73f",
-    "url": "css/Loan.181478b6.css"
+    "revision": "4d19295056cc7ce25349",
+    "url": "css/Loan.39a95e63.css"
   },
   {
     "revision": "f69201f1aa6d6625755c",
@@ -88,7 +88,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/chunk-vendors.985cf834.css"
   },
   {
-    "revision": "72e5e63b7b628f358c4d",
+    "revision": "6acebf40658cffeaef79",
     "url": "css/index.5bc10980.css"
   },
   {
@@ -160,7 +160,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/voucher.1355cdf0.png"
   },
   {
-    "revision": "ca69ce3a720d086739ec14f012f03a68",
+    "revision": "5013e3414848387f7d530f53ddc8ca00",
     "url": "index.html"
   },
   {
@@ -200,8 +200,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/ForgetPassword.9cd69000.js"
   },
   {
-    "revision": "954ca2dbd8ece77cc73f",
-    "url": "js/Loan.bb5eaa89.js"
+    "revision": "4d19295056cc7ce25349",
+    "url": "js/Loan.78e5f605.js"
   },
   {
     "revision": "f69201f1aa6d6625755c",
@@ -252,8 +252,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-vendors.ebbc4c61.js"
   },
   {
-    "revision": "72e5e63b7b628f358c4d",
-    "url": "js/index.1b8ae599.js"
+    "revision": "6acebf40658cffeaef79",
+    "url": "js/index.59f5154f.js"
   },
   {
     "revision": "8c3f567e8d4e321aa576717ec408298f",

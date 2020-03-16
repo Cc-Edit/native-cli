@@ -8,8 +8,8 @@
     "hash": "77b54664668ace9305397e0df89f20b0"
   },
   {
-    "file": "css/BillDetail.7078c006.css",
-    "hash": "11d32deb078b5b06b59bb9642fe9a001"
+    "file": "css/BillDetail.8268d809.css",
+    "hash": "4d25013d656f5e5bc35981e2af721a77"
   },
   {
     "file": "css/chunk-vendors.985cf834.css",
@@ -221,7 +221,7 @@
   },
   {
     "file": "index.html",
-    "hash": "5013e3414848387f7d530f53ddc8ca00"
+    "hash": "92ec855f578079a921b0a240c4cf39af"
   },
   {
     "file": "js/AddBankCard.51360ee1.js",
@@ -232,8 +232,8 @@
     "hash": "2494a15805de3c995f0e52772065745b"
   },
   {
-    "file": "js/BillDetail.f7b366b5.js",
-    "hash": "494288687fc1625a3e6d9ab057a4f6fa"
+    "file": "js/BillDetail.a3328090.js",
+    "hash": "2a1cadfcb46cb5f9db3fa75f3acb8157"
   },
   {
     "file": "js/chunk-vendors.ebbc4c61.js",
@@ -264,8 +264,8 @@
     "hash": "4ff522bf3728cd4d313e71c26c56da41"
   },
   {
-    "file": "js/index.59f5154f.js",
-    "hash": "a455b32ebce35c87ebb1bb411fd9d12d"
+    "file": "js/index.3d2b6a8c.js",
+    "hash": "56ac323db7c5e38c95baa986ea3f349d"
   },
   {
     "file": "js/Loan.78e5f605.js",
@@ -320,8 +320,8 @@
     "hash": "8c3f567e8d4e321aa576717ec408298f"
   },
   {
-    "file": "precache-manifest.2e32da555be6d2a0680d446a8b0c5860.js",
-    "hash": "2e32da555be6d2a0680d446a8b0c5860"
+    "file": "precache-manifest.8e4660fddd2c4c1a518c76f87581c0ec.js",
+    "hash": "8e4660fddd2c4c1a518c76f87581c0ec"
   },
   {
     "file": "robots.txt",
@@ -329,7 +329,7 @@
   },
   {
     "file": "service-worker.js",
-    "hash": "67c630dcc11536d49e5df6a2a0b82a69"
+    "hash": "410a687cc0660bb11269a6cf9cf3c4db"
   },
   {
     "file": "static/echarts-all.js",

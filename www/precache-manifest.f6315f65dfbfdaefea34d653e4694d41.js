@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/ForgetPassword.dbe8e197.css"
   },
   {
-    "revision": "4d19295056cc7ce25349",
-    "url": "css/Loan.39a95e63.css"
+    "revision": "069e74c47e55629e340a",
+    "url": "css/Loan.4263850c.css"
   },
   {
     "revision": "f69201f1aa6d6625755c",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/Status.83b83ca2.css"
   },
   {
-    "revision": "3ec6703727d66493e77a",
-    "url": "css/VouChers.4fd81f2a.css"
+    "revision": "69dc9310e59e5cce6118",
+    "url": "css/VouChers.54ee84ed.css"
   },
   {
     "revision": "b9edc7d35d640a2ee882",
@@ -88,7 +88,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/chunk-vendors.985cf834.css"
   },
   {
-    "revision": "0ebea1aa671613737a67",
+    "revision": "c80ee2da4698a6c4733b",
     "url": "css/index.5bc10980.css"
   },
   {
@@ -160,7 +160,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/voucher.1355cdf0.png"
   },
   {
-    "revision": "165a06753341a4a685ef9fe54927f4db",
+    "revision": "d5dfb5c0835581e87c2012c42b2fa32c",
     "url": "index.html"
   },
   {
@@ -200,8 +200,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/ForgetPassword.9cd69000.js"
   },
   {
-    "revision": "4d19295056cc7ce25349",
-    "url": "js/Loan.78e5f605.js"
+    "revision": "069e74c47e55629e340a",
+    "url": "js/Loan.a386d77a.js"
   },
   {
     "revision": "f69201f1aa6d6625755c",
@@ -240,8 +240,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/Status.42784d02.js"
   },
   {
-    "revision": "3ec6703727d66493e77a",
-    "url": "js/VouChers.dc75fb79.js"
+    "revision": "69dc9310e59e5cce6118",
+    "url": "js/VouChers.c1924a39.js"
   },
   {
     "revision": "b9edc7d35d640a2ee882",
@@ -252,8 +252,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-vendors.ebbc4c61.js"
   },
   {
-    "revision": "0ebea1aa671613737a67",
-    "url": "js/index.572de74f.js"
+    "revision": "c80ee2da4698a6c4733b",
+    "url": "js/index.d03dbd19.js"
   },
   {
     "revision": "8c3f567e8d4e321aa576717ec408298f",

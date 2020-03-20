@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/ForgetPassword.dbe8e197.css"
   },
   {
-    "revision": "394b6b5001a540c097c3",
-    "url": "css/Loan.bfcd2269.css"
+    "revision": "e988fa5e3b62f101d398",
+    "url": "css/Loan.f71150f8.css"
   },
   {
     "revision": "a33c07adba645acbc182",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/Status.5c866e5a.css"
   },
   {
-    "revision": "d3345c44cdddbb48b22c",
-    "url": "css/VouChers.dc772d09.css"
+    "revision": "d94fff9d82aae1dbf12d",
+    "url": "css/VouChers.18eb49f1.css"
   },
   {
     "revision": "79daedaf57e90f8dd8b1",
@@ -88,7 +88,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/chunk-vendors.985cf834.css"
   },
   {
-    "revision": "cc36ae8b617c442387f3",
+    "revision": "0e6fa39d2f8a8dee00b8",
     "url": "css/index.721750cc.css"
   },
   {
@@ -180,7 +180,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/voucher_exclusive.3f11bcfb.png"
   },
   {
-    "revision": "c32932ff2be619d65c52bbe0f0f90c7e",
+    "revision": "e4af8bfef00c1958c4270eda26af5def",
     "url": "index.html"
   },
   {
@@ -220,8 +220,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/ForgetPassword.9cd69000.js"
   },
   {
-    "revision": "394b6b5001a540c097c3",
-    "url": "js/Loan.a1c92c46.js"
+    "revision": "e988fa5e3b62f101d398",
+    "url": "js/Loan.c98088b4.js"
   },
   {
     "revision": "a33c07adba645acbc182",
@@ -260,8 +260,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/Status.6fbf05fa.js"
   },
   {
-    "revision": "d3345c44cdddbb48b22c",
-    "url": "js/VouChers.e9c98a59.js"
+    "revision": "d94fff9d82aae1dbf12d",
+    "url": "js/VouChers.d69b01df.js"
   },
   {
     "revision": "79daedaf57e90f8dd8b1",
@@ -272,8 +272,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-vendors.ebbc4c61.js"
   },
   {
-    "revision": "cc36ae8b617c442387f3",
-    "url": "js/index.30bc553b.js"
+    "revision": "0e6fa39d2f8a8dee00b8",
+    "url": "js/index.e7a75ad6.js"
   },
   {
     "revision": "2e3047da371789f53b58fdcc89a652d5",

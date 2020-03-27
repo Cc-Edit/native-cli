@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/BankList.d79371ab.css"
   },
   {
-    "revision": "f29d2d0b9f34b55c967b",
-    "url": "css/BillDetail.a8127634.css"
+    "revision": "0a0b413c00045200adf1",
+    "url": "css/BillDetail.7255a14c.css"
   },
   {
     "revision": "a7a9368783f9a9a88444",
@@ -88,7 +88,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/chunk-vendors.985cf834.css"
   },
   {
-    "revision": "0e6fa39d2f8a8dee00b8",
+    "revision": "6a28338ace24f25858e0",
     "url": "css/index.721750cc.css"
   },
   {
@@ -180,7 +180,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/voucher_exclusive.3f11bcfb.png"
   },
   {
-    "revision": "e4af8bfef00c1958c4270eda26af5def",
+    "revision": "ee7be7b052f77f27abaabe194220489e",
     "url": "index.html"
   },
   {
@@ -192,8 +192,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/BankList.e3d23951.js"
   },
   {
-    "revision": "f29d2d0b9f34b55c967b",
-    "url": "js/BillDetail.4d2f7377.js"
+    "revision": "0a0b413c00045200adf1",
+    "url": "js/BillDetail.f20e45f2.js"
   },
   {
     "revision": "a7a9368783f9a9a88444",
@@ -272,8 +272,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-vendors.ebbc4c61.js"
   },
   {
-    "revision": "0e6fa39d2f8a8dee00b8",
-    "url": "js/index.e7a75ad6.js"
+    "revision": "6a28338ace24f25858e0",
+    "url": "js/index.95db21d9.js"
   },
   {
     "revision": "2e3047da371789f53b58fdcc89a652d5",

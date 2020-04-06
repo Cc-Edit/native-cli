@@ -25,6 +25,9 @@
     },
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "cn.MimoDong.www"
+    },
+    "cordova-plugin-clipboard": {
+      "PACKAGE_NAME": "cn.MimoDong.www"
     }
   },
   "dependent_plugins": {}

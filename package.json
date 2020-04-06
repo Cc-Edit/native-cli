@@ -36,7 +36,8 @@
       "cordova-plugin-contacts": {},
       "cordova-plugin-splashscreen": {},
       "cordova-plugin-statusbar": {},
-      "cordova-hot-code-push-plugin": {}
+      "cordova-hot-code-push-plugin": {},
+      "cordova-plugin-clipboard": {}
     },
     "platforms": [
       "ios",

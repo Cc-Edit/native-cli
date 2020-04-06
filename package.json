@@ -22,6 +22,7 @@
     "cordova-hot-code-push-plugin": "^1.5.3",
     "cordova-ios": "^5.1.1",
     "cordova-plugin-camera": "^4.1.0",
+    "cordova-plugin-clipboard": "^1.0.0",
     "cordova-plugin-contacts": "^3.0.1",
     "cordova-plugin-splashscreen": "^5.0.3",
     "cordova-plugin-statusbar": "^2.4.3"
@@ -36,7 +37,8 @@
       "cordova-plugin-contacts": {},
       "cordova-plugin-splashscreen": {},
       "cordova-plugin-statusbar": {},
-      "cordova-hot-code-push-plugin": {}
+      "cordova-hot-code-push-plugin": {},
+      "cordova-plugin-clipboard": {}
     },
     "platforms": [
       "ios",

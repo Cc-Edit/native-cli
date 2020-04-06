@@ -25,6 +25,9 @@
     },
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "cn.VPCredit.www"
+    },
+    "cordova-plugin-clipboard": {
+      "PACKAGE_NAME": "cn.VPCredit.www"
     }
   },
   "dependent_plugins": {}

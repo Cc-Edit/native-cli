@@ -88,5 +88,6 @@
     <plugin name="cordova-plugin-contacts" spec="~3.0.1" />
     <plugin name="cordova-plugin-splashscreen" spec="~5.0.3" />
     <plugin name="cordova-plugin-statusbar" spec="~2.4.3" />
-    <plugin name="cordova-hot-code-push-plugin" spec="~1.5.3" />
+    <plugin name="cordova-hot-code-push-plugin" spec="^1.5.3" />
+    <plugin name="cordova-plugin-clipboard" />
 </widget>

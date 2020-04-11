@@ -237,7 +237,7 @@
   },
   {
     "file": "index.html",
-    "hash": "ee7be7b052f77f27abaabe194220489e"
+    "hash": "a11767f29200ef9d84c48bfee7846ea4"
   },
   {
     "file": "js/AddBankCard.f1fe2cc7.js",
@@ -280,8 +280,8 @@
     "hash": "4ff522bf3728cd4d313e71c26c56da41"
   },
   {
-    "file": "js/index.95db21d9.js",
-    "hash": "38823913bc335efd98226682ffd3628e"
+    "file": "js/index.0a4e9098.js",
+    "hash": "44d057f7ce9e7244fb5513a5bf65ed05"
   },
   {
     "file": "js/Loan.c98088b4.js",
@@ -336,8 +336,8 @@
     "hash": "2e3047da371789f53b58fdcc89a652d5"
   },
   {
-    "file": "precache-manifest.0ca2b3529b1421c084dee19682009ead.js",
-    "hash": "0ca2b3529b1421c084dee19682009ead"
+    "file": "precache-manifest.8d56e136c50fe7d43454774d17770e72.js",
+    "hash": "8d56e136c50fe7d43454774d17770e72"
   },
   {
     "file": "robots.txt",
@@ -345,7 +345,7 @@
   },
   {
     "file": "service-worker.js",
-    "hash": "7bd2db7e28a8ff615e6df5b4fb89d0eb"
+    "hash": "1d7d3eb9de41238c7de0f94e477631fe"
   },
   {
     "file": "static/echarts-all.js",

@@ -14,6 +14,9 @@
       "ANDROID_SUPPORT_V4_VERSION": "27.+",
       "PACKAGE_NAME": "cn.VPCredit.www"
     },
+    "cordova-plugin-clipboard": {
+      "PACKAGE_NAME": "cn.VPCredit.www"
+    },
     "cordova-plugin-contacts": {
       "PACKAGE_NAME": "cn.VPCredit.www"
     },
@@ -24,9 +27,6 @@
       "PACKAGE_NAME": "cn.VPCredit.www"
     },
     "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "cn.VPCredit.www"
-    },
-    "cordova-plugin-clipboard": {
       "PACKAGE_NAME": "cn.VPCredit.www"
     }
   },

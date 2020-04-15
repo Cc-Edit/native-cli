@@ -81,7 +81,7 @@
         <auto-download enabled="true" />
         <auto-install enabled="true" />
         <native-interface version="1" />
-        <config-file url="https://ant.honeycombs.top:8290/www/chcp.json" />
+        <config-file url="http://vp-credit.isjs.cn/www/chcp.json" />
     </chcp>
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <plugin name="cordova-plugin-camera" spec="~4.1.0">

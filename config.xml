@@ -39,6 +39,10 @@
         <icon density="xxhdpi" src="static/icons/android/mipmap-xxhdpi/ic_launcher.png" />
         <icon density="xxxhdpi" src="static/icons/android/mipmap-xxxhdpi/ic_launcher.png" />
         <allow-intent href="market:*" />
+        <allow-intent href="tel:*" />
+        <allow-intent href="sms:*" />
+        <allow-intent href="mailto:*" />
+        <allow-intent href="geo:*" />
     </platform>
     <platform name="ios">
         <splash height="480" src="res/screen/ios/Default~iphone.png" width="320" />

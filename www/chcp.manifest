@@ -44,12 +44,12 @@
     "hash": "c42a6702fe5ccac96f9f0ca9ac28b6c3"
   },
   {
-    "file": "css/Loan.ddf284b2.css",
-    "hash": "cd467953dba097ca5030844bc81d01eb"
+    "file": "css/Loan.8a252dd8.css",
+    "hash": "0e7959e2caeb3637e313472ed5b48043"
   },
   {
-    "file": "css/LoanConfirm.ba631053.css",
-    "hash": "a4146f04aa5d47dd0c47c3f7cc03b35d"
+    "file": "css/LoanConfirm.37816aa8.css",
+    "hash": "074d0f408d275a009b687e6446e30504"
   },
   {
     "file": "css/LoanResult.a0ab2ab8.css",
@@ -64,8 +64,8 @@
     "hash": "e7d97e278aaadaf6ba2b2e7ddcc0e535"
   },
   {
-    "file": "css/Register.3c9c10e4.css",
-    "hash": "30fa80969d4b9d65156c22a809e8bbfb"
+    "file": "css/Register.ba62c26e.css",
+    "hash": "2dc3ddc9509ec883675b17e48e203976"
   },
   {
     "file": "css/RegisterPassword.1fb682b9.css",
@@ -253,7 +253,7 @@
   },
   {
     "file": "index.html",
-    "hash": "4e4ce6c9e2d58616f9f97ab2749e3e0f"
+    "hash": "8992a2f912ab47a3deb3213dc2aaa6ff"
   },
   {
     "file": "js/AddBankCard.1ebef396.js",
@@ -296,16 +296,16 @@
     "hash": "9c82a386cd74242d5c3ca10fcbb44149"
   },
   {
-    "file": "js/index.0f9bf9b0.js",
-    "hash": "e0fae1119beeba9247eb793c5fd46374"
+    "file": "js/index.6710bf5d.js",
+    "hash": "4bada2c83d939746671d3f49326b818d"
   },
   {
-    "file": "js/Loan.def28363.js",
-    "hash": "1d8eea3333627e26bc14fde9d1a9d280"
+    "file": "js/Loan.5df00478.js",
+    "hash": "c891faaa7fb59ee44f9fbaef28812aa3"
   },
   {
-    "file": "js/LoanConfirm.8b6c0211.js",
-    "hash": "3efc96eb508b2943ffdee4af977f4f1d"
+    "file": "js/LoanConfirm.8f451e25.js",
+    "hash": "b28ee9b55a58d79de7c649d5671767dd"
   },
   {
     "file": "js/LoanResult.7e92defc.js",
@@ -320,8 +320,8 @@
     "hash": "a5f9942c3f486f701de0a59f55410694"
   },
   {
-    "file": "js/Register.ea67f1f1.js",
-    "hash": "fd5b5b070a00073c733a6ccffa9dfca5"
+    "file": "js/Register.6562ba60.js",
+    "hash": "629a4204ab1dace957cd3429695cf7b9"
   },
   {
     "file": "js/RegisterPassword.f2b7e4d3.js",
@@ -356,8 +356,8 @@
     "hash": "2e3047da371789f53b58fdcc89a652d5"
   },
   {
-    "file": "precache-manifest.9dfe96ce970a7d6ab23f352b92a277b4.js",
-    "hash": "9dfe96ce970a7d6ab23f352b92a277b4"
+    "file": "precache-manifest.bc5a5551ebc625b2bd2d841e43cf7166.js",
+    "hash": "bc5a5551ebc625b2bd2d841e43cf7166"
   },
   {
     "file": "robots.txt",
@@ -365,7 +365,7 @@
   },
   {
     "file": "service-worker.js",
-    "hash": "977bb9c842d82d41ba355578cb62f5ea"
+    "hash": "50ca67ac2b1d4f3f4070bf8591fa2765"
   },
   {
     "file": "static/echarts-all.js",

@@ -10,14 +10,6 @@
     <preference name="StatusBarStyle" value="default" />
     <preference name="AutoHideSplashScreen" value="true" />
     <preference name="SplashScreenDelay" value="3000" />
-    <access origin="*" />
-    <allow-navigation href="*://*/*" />
-    <allow-intent href="http://*/*" />
-    <allow-intent href="https://*/*" />
-    <allow-intent href="tel:*" />
-    <allow-intent href="sms:*" />
-    <allow-intent href="mailto:*" />
-    <allow-intent href="geo:*" />
     <platform name="android">
         <splash density="land-hdpi" src="res/screen/android/splash-land-hdpi.png" />
         <splash density="land-ldpi" src="res/screen/android/splash-land-ldpi.png" />
@@ -39,6 +31,9 @@
         <icon density="xxhdpi" src="static/icons/android/mipmap-xxhdpi/ic_launcher.png" />
         <icon density="xxxhdpi" src="static/icons/android/mipmap-xxxhdpi/ic_launcher.png" />
         <allow-intent href="market:*" />
+        <access origin="*" />
+        <access launch-external="true" origin="mailto:*" />
+        <access launch-external="true" origin="tel:*" />
     </platform>
     <platform name="ios">
         <splash height="480" src="res/screen/ios/Default~iphone.png" width="320" />
@@ -59,7 +54,15 @@
         <icon height="80" src="static/icons/ios/icon-40@2x.png" width="80" />
         <icon height="29" src="static/icons/ios/icon-29.png" width="29" />
         <icon height="58" src="static/icons/ios/icon-29@2x.png" width="58" />
+        <access origin="*" />
+        <allow-navigation href="*://*/*" />
+        <allow-intent href="http://*/*" />
+        <allow-intent href="https://*/*" />
         <allow-intent href="itms:*" />
+        <allow-intent href="tel:*" />
+        <allow-intent href="sms:*" />
+        <allow-intent href="mailto:*" />
+        <allow-intent href="geo:*" />
         <allow-intent href="itms-apps:*" />
         <edit-config file="*-Info.plist" mode="merge" target="NSCameraUsageDescription">
             <string>need camera access to take pictures</string>

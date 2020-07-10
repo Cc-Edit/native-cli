@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/EditPhone.5a1ea908.css"
   },
   {
-    "revision": "dccba7d6e3ffbcb23f52",
-    "url": "css/ForgetPassword.14ac2c2b.css"
+    "revision": "1e74cbbf15431abc94a2",
+    "url": "css/ForgetPassword.0a1c5e9e.css"
   },
   {
     "revision": "0541db5ca8fa6a01027b",
@@ -48,16 +48,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/LoanResult.2f8d5296.css"
   },
   {
-    "revision": "ecceb666b2f83a06da7f",
-    "url": "css/Login.026d1b5c.css"
+    "revision": "b4f194e3c45a60dc5086",
+    "url": "css/Login.24d049a3.css"
   },
   {
     "revision": "5ebeee2ddc825e05df53",
     "url": "css/Myinfo.54671ac1.css"
   },
   {
-    "revision": "baa6d1a3d423b8050bcc",
-    "url": "css/Register.ba62c26e.css"
+    "revision": "914634660e95163eaf43",
+    "url": "css/Register.103b9552.css"
   },
   {
     "revision": "084758332e5371ba13fa",
@@ -92,7 +92,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/chunk-vendors.3e503129.css"
   },
   {
-    "revision": "05b5bcd8b9b70881f6dc",
+    "revision": "b4294e1f3ee394768741",
     "url": "css/index.ba7ce50c.css"
   },
   {
@@ -168,8 +168,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/login_bg.0d465f77.png"
   },
   {
-    "revision": "f886027bbe5e380e60a6b70dd36e0671",
-    "url": "img/login_icon.f886027b.png"
+    "revision": "3813031e7918db18f3adec388792fa7c",
+    "url": "img/login_icon.3813031e.png"
   },
   {
     "revision": "2738009d7bc3a20de8add0c0ddcf4cec",
@@ -196,7 +196,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/voucher_exclusive.3f11bcfb.png"
   },
   {
-    "revision": "876c95e8299066bb19af9b4435c0a440",
+    "revision": "86cd8c14c8d9e8fe22c99c27ab3580a2",
     "url": "index.html"
   },
   {
@@ -232,7 +232,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/EditPhone.52602b22.js"
   },
   {
-    "revision": "dccba7d6e3ffbcb23f52",
+    "revision": "1e74cbbf15431abc94a2",
     "url": "js/ForgetPassword.81a1b7b7.js"
   },
   {
@@ -248,16 +248,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/LoanResult.3d1d3b0f.js"
   },
   {
-    "revision": "ecceb666b2f83a06da7f",
-    "url": "js/Login.8580f154.js"
+    "revision": "b4f194e3c45a60dc5086",
+    "url": "js/Login.968b8542.js"
   },
   {
     "revision": "5ebeee2ddc825e05df53",
     "url": "js/Myinfo.b5f9c9d8.js"
   },
   {
-    "revision": "baa6d1a3d423b8050bcc",
-    "url": "js/Register.6562ba60.js"
+    "revision": "914634660e95163eaf43",
+    "url": "js/Register.9f5dfa70.js"
   },
   {
     "revision": "084758332e5371ba13fa",
@@ -292,8 +292,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-vendors.ebbc4c61.js"
   },
   {
-    "revision": "05b5bcd8b9b70881f6dc",
-    "url": "js/index.df4284f7.js"
+    "revision": "b4294e1f3ee394768741",
+    "url": "js/index.9c56b335.js"
   },
   {
     "revision": "2e3047da371789f53b58fdcc89a652d5",
@@ -308,7 +308,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/echarts-all.js"
   },
   {
-    "revision": "9f18c375ca35496ce5c0cabb4745378c",
+    "revision": "ac051f4f14caf1c3c459623b268356df",
     "url": "www/chcp.json"
   },
   {
@@ -584,7 +584,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "www/img/voucher_exclusive.3f11bcfb.png"
   },
   {
-    "revision": "8f74d006e7c5a8c6032f81c0ee717a96",
+    "revision": "c7d09759c898362cfc10101a6e0dea19",
     "url": "www/index.html"
   },
   {

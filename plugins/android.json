@@ -8,26 +8,26 @@
   },
   "installed_plugins": {
     "cordova-hot-code-push-plugin": {
-      "PACKAGE_NAME": "cn.SeaVay.www"
+      "PACKAGE_NAME": "com.SeaVay.www"
     },
     "cordova-plugin-camera": {
       "ANDROID_SUPPORT_V4_VERSION": "27.+",
-      "PACKAGE_NAME": "cn.SeaVay.www"
+      "PACKAGE_NAME": "com.SeaVay.www"
     },
     "cordova-plugin-clipboard": {
-      "PACKAGE_NAME": "cn.SeaVay.www"
+      "PACKAGE_NAME": "com.SeaVay.www"
     },
     "cordova-plugin-contacts": {
-      "PACKAGE_NAME": "cn.SeaVay.www"
+      "PACKAGE_NAME": "com.SeaVay.www"
     },
     "cordova-plugin-splashscreen": {
-      "PACKAGE_NAME": "cn.SeaVay.www"
+      "PACKAGE_NAME": "com.SeaVay.www"
     },
     "cordova-plugin-statusbar": {
-      "PACKAGE_NAME": "cn.SeaVay.www"
+      "PACKAGE_NAME": "com.SeaVay.www"
     },
     "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "cn.SeaVay.www"
+      "PACKAGE_NAME": "com.SeaVay.www"
     }
   },
   "dependent_plugins": {}

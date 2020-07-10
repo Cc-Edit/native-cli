@@ -36,8 +36,8 @@
     "hash": "bccfb3165edeb4c5f2da0239ce5efc86"
   },
   {
-    "file": "css/ForgetPassword.14ac2c2b.css",
-    "hash": "0af6f305d5524a2e6c8a71dcb4221744"
+    "file": "css/ForgetPassword.0a1c5e9e.css",
+    "hash": "876367b206697e8ba0f075343d420858"
   },
   {
     "file": "css/index.ba7ce50c.css",
@@ -56,16 +56,16 @@
     "hash": "03c682c13c9523236f422c1bec7ef4f6"
   },
   {
-    "file": "css/Login.026d1b5c.css",
-    "hash": "730ae3aec771d97f9df1e3e58dd0d97f"
+    "file": "css/Login.24d049a3.css",
+    "hash": "5dbc2a19c42e2c2e4a2c0c39548bcfbf"
   },
   {
     "file": "css/Myinfo.54671ac1.css",
     "hash": "e7d97e278aaadaf6ba2b2e7ddcc0e535"
   },
   {
-    "file": "css/Register.ba62c26e.css",
-    "hash": "2dc3ddc9509ec883675b17e48e203976"
+    "file": "css/Register.103b9552.css",
+    "hash": "1b16ae484e4c23231d3d16515b258b2e"
   },
   {
     "file": "css/RegisterPassword.1fb682b9.css",
@@ -97,7 +97,7 @@
   },
   {
     "file": "favicon.ico",
-    "hash": "5f6dc58d2cc30e2100a1cbe7a5b8ffcb"
+    "hash": "9687775fa95de907b82ebeff378a667c"
   },
   {
     "file": "img/bank_bg_blue.c58a4348.png",
@@ -165,55 +165,55 @@
   },
   {
     "file": "img/icons/android-chrome-192x192.png",
-    "hash": "b50010a6f8acd6d0c7632c922e9a2e3f"
+    "hash": "684ba74c431b4888fca12e2db794a477"
   },
   {
     "file": "img/icons/android-chrome-512x512.png",
-    "hash": "09f234101cd288378937d43542f13bc6"
+    "hash": "1d1d0ee5f595f239e80708517b906a82"
   },
   {
     "file": "img/icons/apple-touch-icon-120x120.png",
-    "hash": "b112601a8be877a3b583472542defee2"
+    "hash": "5c56fa328896684e157c63290b56b339"
   },
   {
     "file": "img/icons/apple-touch-icon-152x152.png",
-    "hash": "12916c90deaad743473a5b8e974a15bb"
+    "hash": "edb10bb060e165d9c214e65d2c97df0d"
   },
   {
     "file": "img/icons/apple-touch-icon-180x180.png",
-    "hash": "eae279564187d431e2d11d2ea8797d6c"
+    "hash": "bfb5c474887f7b1679cd391dcbf9a852"
   },
   {
     "file": "img/icons/apple-touch-icon-60x60.png",
-    "hash": "48386803f4cb5e734e2955c04e94dc96"
+    "hash": "1c0e9f2dbfcff0f71e72a79644ba85ad"
   },
   {
     "file": "img/icons/apple-touch-icon-76x76.png",
-    "hash": "93270ba943db9436b8be02b4a261ad4f"
+    "hash": "ad97029d2177b0a83c22e25327925058"
   },
   {
     "file": "img/icons/apple-touch-icon.png",
-    "hash": "eae279564187d431e2d11d2ea8797d6c"
+    "hash": "bfb5c474887f7b1679cd391dcbf9a852"
   },
   {
     "file": "img/icons/favicon-16x16.png",
-    "hash": "853b899fe884fe28efa5df647766f515"
+    "hash": "5ef28ab7b5dfdc7512701097a9cfe254"
   },
   {
     "file": "img/icons/favicon-32x32.png",
-    "hash": "58047c4ab3159f06f26ef3174d8ec12a"
+    "hash": "fb0c8e73dd9c3c2bead7cc7713d258de"
   },
   {
     "file": "img/icons/msapplication-icon-144x144.png",
-    "hash": "d533e4f2110b7ecae36c691fe386c795"
+    "hash": "d21d5d46b61924c65d83d8bb7b173335"
   },
   {
     "file": "img/icons/mstile-150x150.png",
-    "hash": "58491bf443519412ebf3a9ef63489046"
+    "hash": "31dbc1af2e0412ff4fefb01e8fe1366b"
   },
   {
     "file": "img/icons/safari-pinned-tab.svg",
-    "hash": "dc183404a8b071d47605ecc0a0e7d843"
+    "hash": "a89632c8e9d5d054e37c3b4e94542051"
   },
   {
     "file": "img/judai_watting.915f048b.png",
@@ -224,8 +224,8 @@
     "hash": "0d465f779ed406e50e7b2405a79813ba"
   },
   {
-    "file": "img/login_icon.f886027b.png",
-    "hash": "f886027bbe5e380e60a6b70dd36e0671"
+    "file": "img/login_icon.3813031e.png",
+    "hash": "3813031e7918db18f3adec388792fa7c"
   },
   {
     "file": "img/new/defaultPhoto.png",
@@ -253,7 +253,7 @@
   },
   {
     "file": "index.html",
-    "hash": "876c95e8299066bb19af9b4435c0a440"
+    "hash": "86cd8c14c8d9e8fe22c99c27ab3580a2"
   },
   {
     "file": "js/AddBankCard.1ebef396.js",
@@ -296,8 +296,8 @@
     "hash": "9c82a386cd74242d5c3ca10fcbb44149"
   },
   {
-    "file": "js/index.df4284f7.js",
-    "hash": "e2af30cb780f446e4956f6f4bdb22e15"
+    "file": "js/index.9c56b335.js",
+    "hash": "41f03687ee1403a8309246ae854b9eaf"
   },
   {
     "file": "js/Loan.5df00478.js",
@@ -312,16 +312,16 @@
     "hash": "8e692c5be1ece9e61ce2d38af52a1bc2"
   },
   {
-    "file": "js/Login.8580f154.js",
-    "hash": "d484ec7c802e003e7bc38d95ca2d3486"
+    "file": "js/Login.968b8542.js",
+    "hash": "e8001228579014b2918d40ae08f0353f"
   },
   {
     "file": "js/Myinfo.b5f9c9d8.js",
     "hash": "a5f9942c3f486f701de0a59f55410694"
   },
   {
-    "file": "js/Register.6562ba60.js",
-    "hash": "629a4204ab1dace957cd3429695cf7b9"
+    "file": "js/Register.9f5dfa70.js",
+    "hash": "a5802cf723314384812d5bff198f14da"
   },
   {
     "file": "js/RegisterPassword.f2b7e4d3.js",
@@ -356,8 +356,8 @@
     "hash": "2e3047da371789f53b58fdcc89a652d5"
   },
   {
-    "file": "precache-manifest.93c4fefab20b45e7bd7cf0963b53c4ba.js",
-    "hash": "93c4fefab20b45e7bd7cf0963b53c4ba"
+    "file": "precache-manifest.4d4fa99d3c04a39e3eb3673daa73a0fb.js",
+    "hash": "4d4fa99d3c04a39e3eb3673daa73a0fb"
   },
   {
     "file": "robots.txt",
@@ -365,7 +365,7 @@
   },
   {
     "file": "service-worker.js",
-    "hash": "88ef8fd7e6bf9785252b15a179b54849"
+    "hash": "55f252df6cbca612610a453675e8d522"
   },
   {
     "file": "static/echarts-all.js",

@@ -11,6 +11,11 @@
     <preference name="AutoHideSplashScreen" value="true" />
     <preference name="SplashScreenDelay" value="3000" />
     <platform name="android">
+        <splash density="hdpi" src="res/screen/android/splash-land-hdpi.png" />
+        <splash density="ldpi" src="res/screen/android/splash-land-ldpi.png" />
+        <splash density="mdpi" src="res/screen/android/splash-land-mdpi.png" />
+        <splash density="xhdpi" src="res/screen/android/splash-land-xhdpi.png" />
+        <splash density="xxhdpi" src="res/screen/android/splash-land-xxhdpi.png" />
         <splash density="land-hdpi" src="res/screen/android/splash-land-hdpi.png" />
         <splash density="land-ldpi" src="res/screen/android/splash-land-ldpi.png" />
         <splash density="land-mdpi" src="res/screen/android/splash-land-mdpi.png" />

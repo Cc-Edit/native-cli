@@ -8,8 +8,8 @@
     "hash": "ff636df2e98be816f8ed0abbc7e36ea9"
   },
   {
-    "file": "css/BillDetail.1b7821f6.css",
-    "hash": "b7c947810c74a05e092ae4f01f60cb04"
+    "file": "css/BillDetail.7226a58a.css",
+    "hash": "3a3767a10e93835696ddc97374a2bac3"
   },
   {
     "file": "css/chunk-vendors.0990c0c9.css",
@@ -48,20 +48,20 @@
     "hash": "d27c074e7f35e28e401d1e826d233097"
   },
   {
-    "file": "css/index.ab5aef1e.css",
-    "hash": "1628884080361a4abd68aa2996848e21"
+    "file": "css/index.239df88e.css",
+    "hash": "54d5e97dd584013b04c79425b8c0de6e"
   },
   {
-    "file": "css/Loan.342327ad.css",
-    "hash": "e40f5f25a37cb9e36a208131531e104b"
+    "file": "css/Loan.2b0ec59b.css",
+    "hash": "cfbd3de5f2a37c77720a9cb7041a2f8d"
   },
   {
     "file": "css/LoanConfirm.c09658d6.css",
     "hash": "b6fd766b4bb7fd60310f885311fc512a"
   },
   {
-    "file": "css/LoanResult.6b3a5901.css",
-    "hash": "2413316a4088c578e7bcb15efa6a0670"
+    "file": "css/LoanResult.eaac204b.css",
+    "hash": "b8fc6663761448b2a03df2472b189088"
   },
   {
     "file": "css/Login.4daff183.css",
@@ -84,8 +84,8 @@
     "hash": "e6470cd06932a91d0e7a4563dc87109d"
   },
   {
-    "file": "css/Repayment.fd95b470.css",
-    "hash": "450a6ffb83779f9998d42d57b6fe48ad"
+    "file": "css/Repayment.8e088d5d.css",
+    "hash": "32cf350f89c03340a01ca9f2b2c3c5c3"
   },
   {
     "file": "css/RepaymentResult.d9c4035e.css",
@@ -100,8 +100,8 @@
     "hash": "be49b271922289bc27c79f8a2b00dadd"
   },
   {
-    "file": "css/Wealth.af1a20ca.css",
-    "hash": "8aaf5353e923687c764108c9311fb352"
+    "file": "css/Wealth.ce482bce.css",
+    "hash": "4ce5fce73e740beed6a410696ac5b6ec"
   },
   {
     "file": "favicon.ico",
@@ -261,7 +261,7 @@
   },
   {
     "file": "index.html",
-    "hash": "3e2617b47d90729687f79e3f71c4efdb"
+    "hash": "ce7915ac2724291d35e9d7863d1e8149"
   },
   {
     "file": "js/AddBankCard.189129aa.js",
@@ -272,8 +272,8 @@
     "hash": "5f200d993e709a8c7d292637005c5921"
   },
   {
-    "file": "js/BillDetail.87c7cbb1.js",
-    "hash": "c5e92592b6839ffe0f571344aa51d54d"
+    "file": "js/BillDetail.46d39025.js",
+    "hash": "c1a5545943ca1a93a11f8b81bf38cfb8"
   },
   {
     "file": "js/chunk-vendors.56d9f553.js",
@@ -312,20 +312,20 @@
     "hash": "178bd8110769acdca73f843af16d5c07"
   },
   {
-    "file": "js/index.8fb345b5.js",
-    "hash": "cb851a17d3a16a9f4cf2d86f2a26770a"
+    "file": "js/index.d8d816b6.js",
+    "hash": "99b2d3d53d5db60530c244776483c5bf"
   },
   {
-    "file": "js/Loan.9c305b66.js",
-    "hash": "be6c0f05552ef3a627ba2143598fa579"
+    "file": "js/Loan.1a8221da.js",
+    "hash": "6ad9d9928931dc7652578d6c4e44cac5"
   },
   {
     "file": "js/LoanConfirm.acfd1232.js",
     "hash": "9ac8163fe6e310d80442ad255950fb59"
   },
   {
-    "file": "js/LoanResult.98c14961.js",
-    "hash": "671ab8be79e89f159d907d35daabce46"
+    "file": "js/LoanResult.383d20c8.js",
+    "hash": "a6f02b77263e93509de08a72d7cc0777"
   },
   {
     "file": "js/Login.50d22d0e.js",
@@ -348,8 +348,8 @@
     "hash": "cfcd2f10bf3de4375c9d63cd4a2b55f9"
   },
   {
-    "file": "js/Repayment.dc8bc115.js",
-    "hash": "202c85efef10cf6850c1abbd252be169"
+    "file": "js/Repayment.4b803371.js",
+    "hash": "5f73755e6a8887cc83bc45ca6a6f7de0"
   },
   {
     "file": "js/RepaymentResult.458b5d80.js",
@@ -364,16 +364,16 @@
     "hash": "00fd69cb911f22cb15a1915ae61004e6"
   },
   {
-    "file": "js/Wealth.f0230823.js",
-    "hash": "2a9888e92b6b237b5700b0cac9e336cd"
+    "file": "js/Wealth.4179746d.js",
+    "hash": "29e26ab6d15c4b90f57880c2721539f4"
   },
   {
     "file": "manifest.json",
     "hash": "2e3047da371789f53b58fdcc89a652d5"
   },
   {
-    "file": "precache-manifest.816fab99e5c19e734f60f02d91243801.js",
-    "hash": "816fab99e5c19e734f60f02d91243801"
+    "file": "precache-manifest.16a26996113119b3f53b92a80307bea0.js",
+    "hash": "16a26996113119b3f53b92a80307bea0"
   },
   {
     "file": "robots.txt",
@@ -381,7 +381,7 @@
   },
   {
     "file": "service-worker.js",
-    "hash": "9c8abd4409c49c1166c61e7bca533574"
+    "hash": "091742ac2a78e6f77492147ef587e04e"
   },
   {
     "file": "static/echarts-all.js",

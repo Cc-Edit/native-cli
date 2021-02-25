@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/BankList.5830d1ba.css"
   },
   {
-    "revision": "82825ce10e20b6b9f55c",
-    "url": "css/BillDetail.1b7821f6.css"
+    "revision": "f7424055225380fbd7e0",
+    "url": "css/BillDetail.7226a58a.css"
   },
   {
     "revision": "03945573481e4664cf49",
@@ -44,16 +44,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/ForgetPassword.47d0c7a6.css"
   },
   {
-    "revision": "c0cfe79cdd4bc4cd7e26",
-    "url": "css/Loan.342327ad.css"
+    "revision": "f2818d90a8d11469ff2e",
+    "url": "css/Loan.2b0ec59b.css"
   },
   {
     "revision": "2e998e40d76ae7a6a6d8",
     "url": "css/LoanConfirm.c09658d6.css"
   },
   {
-    "revision": "4e3b6142f00c0515a56a",
-    "url": "css/LoanResult.6b3a5901.css"
+    "revision": "15bffe687c4d9f5f0caf",
+    "url": "css/LoanResult.eaac204b.css"
   },
   {
     "revision": "a0ca6e6019a6bce4db8c",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/Renew.b86c20fc.css"
   },
   {
-    "revision": "158bebc00961d8a03a39",
-    "url": "css/Repayment.fd95b470.css"
+    "revision": "9ed0c01e9ce64664292c",
+    "url": "css/Repayment.8e088d5d.css"
   },
   {
     "revision": "33dc335105fb243da40b",
@@ -92,16 +92,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/VouChers.b9939b28.css"
   },
   {
-    "revision": "faf26531233fda9f3948",
-    "url": "css/Wealth.af1a20ca.css"
+    "revision": "732e073d3d40094a6c64",
+    "url": "css/Wealth.ce482bce.css"
   },
   {
     "revision": "033f246ec4a417166ccf",
     "url": "css/chunk-vendors.0990c0c9.css"
   },
   {
-    "revision": "6a118c9edafb2b0dd8fd",
-    "url": "css/index.ab5aef1e.css"
+    "revision": "919e8a53fd8908c6b7a1",
+    "url": "css/index.239df88e.css"
   },
   {
     "revision": "30ddd0ee045910d98b96a6e57be62f57",
@@ -204,7 +204,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/voucher_exclusive.f8e4ce31.png"
   },
   {
-    "revision": "3e2617b47d90729687f79e3f71c4efdb",
+    "revision": "ce7915ac2724291d35e9d7863d1e8149",
     "url": "index.html"
   },
   {
@@ -216,8 +216,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/BankList.145f77f1.js"
   },
   {
-    "revision": "82825ce10e20b6b9f55c",
-    "url": "js/BillDetail.87c7cbb1.js"
+    "revision": "f7424055225380fbd7e0",
+    "url": "js/BillDetail.46d39025.js"
   },
   {
     "revision": "03945573481e4664cf49",
@@ -252,16 +252,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/ForgetPassword.beca5a98.js"
   },
   {
-    "revision": "c0cfe79cdd4bc4cd7e26",
-    "url": "js/Loan.9c305b66.js"
+    "revision": "f2818d90a8d11469ff2e",
+    "url": "js/Loan.1a8221da.js"
   },
   {
     "revision": "2e998e40d76ae7a6a6d8",
     "url": "js/LoanConfirm.acfd1232.js"
   },
   {
-    "revision": "4e3b6142f00c0515a56a",
-    "url": "js/LoanResult.98c14961.js"
+    "revision": "15bffe687c4d9f5f0caf",
+    "url": "js/LoanResult.383d20c8.js"
   },
   {
     "revision": "a0ca6e6019a6bce4db8c",
@@ -284,8 +284,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/Renew.9f287d13.js"
   },
   {
-    "revision": "158bebc00961d8a03a39",
-    "url": "js/Repayment.dc8bc115.js"
+    "revision": "9ed0c01e9ce64664292c",
+    "url": "js/Repayment.4b803371.js"
   },
   {
     "revision": "33dc335105fb243da40b",
@@ -300,16 +300,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/VouChers.4ca01e7e.js"
   },
   {
-    "revision": "faf26531233fda9f3948",
-    "url": "js/Wealth.f0230823.js"
+    "revision": "732e073d3d40094a6c64",
+    "url": "js/Wealth.4179746d.js"
   },
   {
     "revision": "033f246ec4a417166ccf",
     "url": "js/chunk-vendors.56d9f553.js"
   },
   {
-    "revision": "6a118c9edafb2b0dd8fd",
-    "url": "js/index.8fb345b5.js"
+    "revision": "919e8a53fd8908c6b7a1",
+    "url": "js/index.d8d816b6.js"
   },
   {
     "revision": "2e3047da371789f53b58fdcc89a652d5",
